@@ -1,0 +1,36 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Luna,190.0,22.0,8.0,3.0,Luna Bar - Peanut Honey Pretzel Bar,Brand,serving,48.000,g,1.000,9.0,2.5,1 bar,11.0,
+1,Luna,190.0,27.0,6.0,2.0,Luna Bar - S'mores,Brand,serving,48.000,g,1.000,8.0,2.5,1 bar,9.0,0.0
+2,Luna,190.0,27.0,6.0,2.0,Luna Bar - Blueberry Bliss,Brand,serving,48.000,g,1.000,7.0,2.5,1 bar,10.0,0.0
+3,Luna,190.0,25.0,6.0,3.0,Luna Bar - Vanilla Almond,Brand,serving,48.000,g,1.000,10.0,2.0,1 bar,11.0,0.0
+4,Luna,170.0,29.0,3.5,3.0,Luna Bar - Berry Almond,Brand,serving,48.000,g,1.000,9.0,,1 bar,11.0,0.0
+5,Luna,170.0,27.0,5.0,5.0,Luna Bar - Chocolate Raspberry,Brand,serving,48.000,g,1.000,8.0,2.0,1 bar,13.0,0.0
+6,Luna,180.0,25.0,5.0,3.0,Luna Bar - Chai Tea,Brand,serving,48.000,g,1.000,10.0,2.5,1 bar,13.0,0.0
+7,Luna,180.0,27.0,5.0,4.0,Luna Bar - Chocolate Cupcake,Brand,serving,48.000,g,1.000,9.0,2.5,1 bar,12.0,0.0
+8,Luna,180.0,29.0,4.0,5.0,Luna Bar - Strawberries & Creme,Brand,serving,,,1.000,8.0,2.0,1 bar,11.0,
+9,Luna,190.0,26.0,6.0,3.0,Luna Bar - Lemon Zest,Brand,serving,48.000,g,1.000,9.0,2.5,1 bar,9.0,0.0
+10,Luna,180.0,26.0,5.0,3.0,Luna Bar - Chocolate Chunk,Brand,serving,48.000,g,1.000,9.0,1.5,1 bar,11.0,0.0
+11,Luna,180.0,28.0,6.0,3.0,Luna Bar - Carrot Cake,Brand,serving,48.000,g,1.000,8.0,2.5,1 bar,13.0,0.0
+12,Luna,170.0,21.0,6.0,3.0,Luna Protein Bar - Chocolate,Brand,serving,45.000,g,1.000,12.0,3.5,1 bar,13.0,
+13,Luna,170.0,28.0,4.0,3.0,Luna Bar - Dulce de Leche,Brand,serving,48.000,g,1.000,9.0,1.5,1 bar,13.0,0.0
+14,Luna,180.0,19.0,9.0,2.0,Luna Bar - Cinnamon Almond Swirl,Brand,serving,42.000,g,1.000,7.0,1.0,1 bar,5.0,
+15,Luna,170.0,21.0,4.5,3.0,Luna Protein Bar - Lemon Vanilla,Brand,serving,45.000,g,1.000,12.0,3.0,1 bar,15.0,0.0
+16,Luna,180.0,25.0,5.0,3.0,Luna Bar - Chocolate Pecan Pie,Brand,serving,48.000,g,1.000,10.0,2.5,1 bar,12.0,0.0
+17,Luna,190.0,25.0,7.0,3.0,Luna Bar - White Chocolate Macadamia,Brand,serving,48.000,g,1.000,9.0,2.5,1 bar,11.0,0.0
+18,Luna,200.0,24.0,8.0,3.0,Luna Bar - Honey Salted Peanut,Brand,serving,48.000,g,1.000,10.0,2.5,1 bar,8.0,0.0
+19,Luna,170.0,21.0,6.0,3.0,Luna Protein Bar - Cookie Dough,Brand,serving,45.000,g,1.000,12.0,3.5,1 bar,14.0,0.0
+20,Luna,180.0,26.0,6.0,3.0,Luna Bar - Peanut Butter Cookie,Brand,serving,48.000,g,1.000,9.0,2.0,1 bar,11.0,0.0
+21,Luna,190.0,28.0,6.0,4.0,Luna Bar - Chocolate Peppermint Stick,Brand,serving,48.000,g,1.000,8.0,2.5,1 bar,8.0,0.0
+22,Luna,200.0,24.0,8.0,3.0,Luna Bar - Chocolate Dipped Coconut,Brand,serving,48.000,g,1.000,9.0,4.5,1 bar,8.0,0.0
+23,Luna,190.0,27.0,6.0,3.0,Luna Bar - Carmel Nut Brownie,Brand,serving,48.000,g,1.000,8.0,3.0,1 bar,13.0,0.0
+24,Luna,180.0,27.0,5.0,3.0,Luna Bar - Iced Oatmeal Raisin,Brand,serving,48.000,g,1.000,9.0,2.0,1 bar,13.0,0.0
+25,Luna,200.0,24.0,8.0,3.0,Luna Bar - Nutz Over Chocolate,Brand,serving,48.000,g,1.000,9.0,2.5,1 bar,7.0,0.0
+26,Luna,180.0,20.0,8.0,3.0,Luna Bar - Chocolate Chip Cookie,Brand,serving,42.000,g,1.000,7.0,1.5,1 bar,5.0,0.0
+27,Luna,180.0,20.0,9.0,3.0,Luna Bar - Dark Chocolate Hazelnut,Brand,serving,42.000,g,1.000,7.0,2.0,1 bar,5.0,0.0
+28,Luna,200.0,26.0,8.0,3.0,Luna Bar - Caramel Walnut Brownie,Brand,serving,48.000,g,1.000,8.0,3.5,1 bar,10.0,0.0
+29,Luna,170.0,21.0,8.0,2.0,Luna Bar - Salted Caramel Cashew,Brand,serving,42.000,g,1.000,6.0,1.5,1 bar,5.0,0.0
+30,Luna,180.0,27.0,5.0,3.0,Luna Bar - Cookies 'n Cream Delight,Brand,serving,48.000,g,1.000,8.0,3.0,1 bar,13.0,0.0
+31,Luna,180.0,21.0,8.0,3.0,Luna Bar - Dark Chocolate Mocha Almond,Brand,serving,42.000,g,1.000,7.0,2.0,1 bar,5.0,
+32,Luna,190.0,19.0,8.0,3.0,Luna Protein Bar - Chocolate Peanut Butter,Brand,serving,45.000,g,1.000,12.0,3.5,1 bar,13.0,0.0
+33,Luna,170.0,22.0,5.0,3.0,Luna Protein Bar - Chocolate Salted Caramel,Brand,serving,45.000,g,1.000,12.0,3.0,1 bar,15.0,0.0
+34,Luna,190.0,27.0,6.0,2.0,Whole Nutrition Bar for Women - S'mores,Brand,serving,48.000,g,1.000,8.0,2.5,1 bar,9.0,0.0

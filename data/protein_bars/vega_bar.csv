@@ -1,0 +1,19 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Vega,240.0,30.0,10.0,6.0,Whole Food Energy Bar - Chocolate,Brand,serving,63.000,g,1.000,10.0,2.0,1 bar,22.0,
+1,Vega,240.0,31.0,10.0,6.0,Whole Food Energy Bar - Natural,Brand,serving,63.000,g,1.000,10.0,1.0,1 bar,23.0,0.0
+2,Vega,240.0,31.0,10.0,6.0,Whole Food Energy Bar - Berry,Brand,serving,63.000,g,1.000,10.0,0.0,1 bar,23.0,0.0
+3,Vega,250.0,29.0,9.0,4.0,Sport Protein Bar - Chocolate Coconut,Brand,serving,60.000,g,1.000,15.0,4.5,1 bar,19.0,
+4,Vega,190.0,22.0,8.0,4.0,Protein Snack Bar Coconut Almond,Brand,serving,45.000,g,1.000,10.0,3.5,1 bar,11.0,0.0
+5,Vega,190.0,21.0,8.0,4.0,Protein & Snack Bar Chocolate Caramel,Brand,serving,45.000,g,1.000,10.0,4.0,1 bar,11.0,
+6,Vega,180.0,25.0,7.0,10.0,Whole Food Vibrancy Bar - Wholesome Original,Brand,serving,50.000,g,1.000,10.0,0.5,1 bar,10.0,0.0
+7,Vega,200.0,22.0,9.0,5.0,Whole Food Vibrancy Bar - Green Synergy,Brand,serving,50.000,g,1.000,9.0,1.0,1 bar,11.0,0.0
+8,Vega,180.0,24.0,7.0,10.0,Whole Food Vibrancy Bar - Chocolate Decadence,Brand,serving,50.000,g,1.000,10.0,1.0,1 bar,10.0,0.0
+9,Vega,260.0,27.0,11.0,3.0,Sport Protein Bar - Chocolate Peanut Butter,Brand,serving,60.000,g,1.000,15.0,3.0,1 bar,16.0,0.0
+10,Vega,180.0,25.0,7.0,10.0,Whole Food Vibrancy Bar - Berry Bliss,Brand,serving,,,1.000,10.0,,1 bar,10.0,
+11,Vega,200.0,24.0,9.0,4.0,Protein & Snack Bar Chocolate Peanut Butter,Brand,serving,49.000,g,1.000,11.0,,1 bar,12.0,
+12,Vega,190.0,20.0,8.0,4.0,Protein Snack Bar Chocolate Peanut Butter,Brand,serving,45.000,g,1.000,10.0,4.0,1 bar,11.0,
+13,Vega Sport,240.0,30.0,8.0,3.0,Protein Bar,Brand,serving,60.000,g,1.000,15.0,3.5,1 bar,19.0,0.0
+14,Vega Sport,190.0,30.0,5.0,4.0,Endurance Bar,Brand,serving,50.000,g,1.000,8.0,0.5,1 bar,19.0,0.0
+15,Vega One,270.0,34.0,11.0,3.0,Chocolate Peanut Butter Bar,Brand,serving,64.000,g,1.000,13.0,3.5,1 bar,18.0,0.0
+16,Vega One,270.0,35.0,11.0,3.0,Chocolate Coconut Cashew Bar,Brand,serving,64.000,g,1.000,12.0,5.0,1 bar,18.0,
+17,Vegan Perfect Bar,260.0,30.0,14.0,6.0,Almond Coconut,Brand,serving,64.000,g,1.000,8.0,3.0,1 bar,20.0,0.0

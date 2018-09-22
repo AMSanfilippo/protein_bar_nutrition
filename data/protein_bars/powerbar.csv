@@ -1,0 +1,30 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,PowerBar,210.0,25.0,6.0,4.0,ProteinPlus - Chocolate Peanut Butter (60g),Brand,serving,60.000,g,1.000,20.0,3.0,1 bar,12.0,0.0
+1,PowerBar,210.0,27.0,5.0,4.0,ProteinPlus - Vanilla,Brand,serving,40.000,g,1.000,20.0,3.0,1 bar,14.0,0.0
+2,PowerBar,190.0,25.0,5.0,13.0,Clean Whey Protein Bar - Chocolate Chip Cookie Dough,Brand,serving,60.000,g,1.000,20.0,,1 bar,2.0,
+3,PowerBar,190.0,25.0,5.0,13.0,Clean Whey Protein Bar,Brand,serving,60.000,g,1.000,20.0,2.5,1 bar,2.0,0.0
+4,PowerBar,190.0,25.0,5.0,12.0,Clean Whey Protein Bar - Cookies & Cream,Brand,serving,60.000,g,1.000,20.0,3.0,1 bar,2.0,0.0
+5,PowerBar,230.0,22.0,13.0,8.0,Plant Protein Dark Chocolate Almond Sea Salt,Brand,serving,50.000,g,1.000,10.0,2.5,1 bar,10.0,
+6,PowerBar,200.0,25.0,7.0,5.0,ProteinPlus - Lemon Poppy Seed Pound Cake,Brand,serving,60.000,g,1.000,20.0,2.5,1 bar,3.0,
+7,PowerBar,240.0,44.0,4.0,1.0,Performance Energy - Peanut Butter,Brand,serving,65.000,g,1.000,9.0,1.0,1 bar,26.0,0.0
+8,PowerBar,190.0,25.0,4.5,12.0,Clean Whey Protein Bar - White Fudge Raspberry,Brand,serving,60.000,g,1.000,20.0,2.5,1 bar,2.0,0.0
+9,PowerBar,210.0,27.0,5.0,4.0,ProteinPlus - Cookies & Cream,Brand,serving,78.000,g,1.000,20.0,3.0,1 bar,13.0,
+10,PowerBar,200.0,23.0,9.0,,Triple Threat - Peanut Butter Caramel,Brand,serving,50.000,g,1.000,12.0,,1 bar,,
+11,PowerBar,180.0,24.0,7.0,3.0,Triple Threat - Caramel Nut Brownie,Brand,serving,50.000,g,1.000,12.0,4.0,1 bar,13.0,0.0
+12,PowerBar,250.0,42.0,5.0,5.0,Harvest Whole Grain Energy Bar - Toffee Chocolate Chip,Brand,serving,,,1.000,10.0,2.5,1 bar,20.0,0.0
+13,PowerBar,200.0,24.0,7.0,5.0,ProteinPlus Reduced Sugar - Chocolate Peanut Butter (60g),Brand,serving,60.000,g,1.000,20.0,3.5,1 bar,2.0,0.0
+14,PowerBar,280.0,29.0,9.0,1.0,ProteinPlus - Peanut Butter Cookie,Brand,serving,65.000,g,1.000,20.0,4.0,1 bar,22.0,0.0
+15,PowerBar,220.0,24.0,8.0,6.0,ProteinPlus Reduced Sugar - Chocolate Coconut,Brand,serving,60.000,g,1.000,20.0,3.5,1 bar,2.0,0.0
+16,PowerBar,240.0,45.0,3.0,3.0,Performance Energy - Chocolate,Brand,serving,,,1.000,8.0,1.0,1 bar,25.0,0.0
+17,PowerBar,330.0,40.0,9.0,5.0,ProteinPlus - Chocolate Brownie,Brand,serving,93.000,g,1.000,30.0,4.5,1 bar,27.0,0.0
+18,PowerBar,220.0,32.0,6.0,4.0,Triple Threat - Chocolate Peanut Butter Crisp,Brand,serving,,,1.000,11.0,2.5,1 bar,13.0,0.0
+19,PowerBar,270.0,30.0,8.0,2.0,ProteinPlus - Chocolate Mint Cookie,Brand,serving,65.000,g,1.000,20.0,4.0,1 bar,20.0,0.0
+20,PowerBar,230.0,24.0,12.0,7.0,Plant Protein Dark Chocolate Salted Caramel Cashew,Brand,serving,50.000,g,1.000,10.0,3.5,1 bar,10.0,0.0
+21,PowerBar,170.0,21.0,8.0,2.0,Pria Protein Select Nutrition Bar,Brand,serving,48.000,g,1.000,10.0,5.0,1 bar,1.0,
+22,PowerBar,240.0,45.0,3.5,1.0,Performance Energy - Vanilla Crisp,Brand,serving,,,1.000,8.0,0.5,1 bar,26.0,0.0
+23,PowerBar,300.0,39.0,6.0,1.0,ProteinPlus - Chocolate Peanut Butter (78g),Brand,serving,78.000,g,1.000,23.0,3.5,1 bar,19.0,0.0
+24,PowerBar,230.0,30.0,9.0,3.0,Triple Threat - Chocolate Caramel Fusion,Brand,serving,55.000,g,1.000,10.0,4.5,1 bar,15.0,0.0
+25,PowerBar,175.0,16.5,4.6,7.5,ProteinPlus - Chocolate,Brand,serving,55.000,g,1.000,16.7,2.6,1 bar,15.8,
+26,PowerBar,210.0,21.0,10.0,2.0,Nut Naturals Energy Bar - Fruit & Nuts,Brand,serving,45.000,g,1.000,10.0,1.5,1 bar,9.0,0.0
+27,PowerBar,240.0,42.0,4.0,5.0,Harvest Whole Grain Energy Bar - Strawberry Crunch,Brand,serving,65.000,g,1.000,9.0,0.5,1 bar,21.0,
+28,PowerBar,210.0,23.0,9.0,3.0,Harvest Long Lasting Energy Bar,Brand,serving,47.000,g,1.000,10.0,2.0,1 bar,15.0,

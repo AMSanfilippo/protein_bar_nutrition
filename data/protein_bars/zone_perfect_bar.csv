@@ -1,0 +1,38 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Zone Perfect,200.0,22.0,7.0,1.0,Apple Gingersnap Nutrition Bar,Brand,serving,45.000,g,1.000,11.0,3.0,1 bar,16.0,0.0
+1,Zone Perfect,210.0,24.0,6.0,3.0,Fruitified Nutrition Bar - Blueberry,Brand,serving,50.000,g,1.000,14.0,3.0,1 bar,16.0,0.0
+2,Zone Perfect,200.0,24.0,6.0,3.0,Fruitified Nutrition Bar - Banana Nut,Brand,serving,50.000,g,1.000,14.0,1.5,1 bar,12.0,0.0
+3,Zone Perfect,180.0,27.0,2.0,3.0,Fruitified Nutrition Bar - Apple Cinnamon,Brand,serving,50.000,g,1.000,14.0,0.5,1 bar,17.0,0.0
+4,Zone Perfect,210.0,24.0,6.0,3.0,Classic Nutrition Bar - Blueberry Pomegranate,Brand,serving,50.000,g,1.000,14.0,3.0,1 bar,16.0,0.0
+5,Zone Perfect,210.0,23.0,7.0,3.0,Classic Nutrition Bar - Fudge Graham,Brand,serving,50.000,g,1.000,14.0,3.5,1 bar,15.0,0.0
+6,Zone Perfect,190.0,22.0,6.0,2.0,Dark Chocolate Nutrition Bar - Almond,Brand,serving,45.000,g,1.000,12.0,4.0,1 bar,13.0,0.0
+7,Zone Perfect,210.0,22.0,7.0,1.0,Classic Nutrition Bar - Cinnamon Roll,Brand,serving,50.000,g,1.000,15.0,4.0,1 bar,15.0,0.0
+8,Zone Perfect,170.0,19.0,6.0,0.0,Revitalize Bar - Hot Chocolate Marshmallow,Brand,serving,40.000,g,1.000,11.0,3.0,1 bar,12.0,
+9,Zone Perfect,200.0,25.0,6.0,3.0,Fruitified Nutrition Bar - Strawberry Yogurt,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,15.0,0.0
+10,Zone Perfect,180.0,18.0,7.0,,Revitalize Bar - Salted Caramel Latte,Brand,serving,40.000,g,1.000,11.0,3.0,1 bar,14.0,
+11,Zone Perfect,180.0,22.0,5.0,1.0,Dark Chocolate Nutrition Bar - Strawberry,Brand,serving,45.000,g,1.000,12.0,4.0,1 bar,14.0,
+12,Zone Perfect,210.0,24.0,7.0,3.0,Classic Nutrition Bar - Chocolate Mint,Brand,serving,50.000,g,1.000,14.0,4.5,1 bar,14.0,
+13,Zone Perfect,180.0,21.0,5.0,1.0,Dark Chocolate Nutrition Bar - Mocha,Brand,serving,45.000,g,1.000,12.0,3.5,1 bar,13.0,0.0
+14,Zone Perfect,210.0,22.0,7.0,1.0,Classic Nutrition Bar - Chocolate Coconut Crunch,Brand,serving,50.000,g,1.000,15.0,4.5,1 bar,16.0,0.0
+15,Zone Perfect,210.0,24.0,7.0,3.0,Classic Nutrition Bar - Chocolate Peanut Butter,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,15.0,0.0
+16,Zone Perfect,200.0,14.0,11.0,2.0,Perfectly Simple Nutrition Bar - Almond Toffee Crunch,Brand,serving,40.000,g,1.000,10.0,2.5,1 bar,8.0,
+17,Zone Perfect,170.0,25.0,3.5,1.0,Cookie Dough Nutrition Bar - Oatmeal Raisin,Brand,serving,45.000,g,1.000,10.0,1.5,1 bar,16.0,0.0
+18,Zone Perfect,200.0,20.0,8.0,2.0,Perfectly Simple Nutrition Bar - Toasted Coconut,Brand,serving,45.000,g,1.000,10.0,4.5,1 bar,16.0,0.0
+19,Zone Perfect,190.0,20.0,8.0,3.0,Perfectly Simple Nutrition Bar - Peanut Crunch,Brand,serving,45.000,g,1.000,10.0,2.0,1 bar,14.0,0.0
+20,Zone Perfect,210.0,21.0,7.0,,All Natural Nutrition Bar -  Chocolate Raspberry,Brand,serving,50.000,g,1.000,15.0,7.0,1 bar,,
+21,Zone Perfect,190.0,24.0,5.0,3.0,All Natural Nutrition Bar - Orange Cranberry,Brand,serving,50.000,g,1.000,14.0,2.5,1 bar,11.0,0.0
+22,Zone Perfect,200.0,21.0,8.0,1.0,Sweet & Salty Nutrition Bar - Trail Mix,Brand,serving,45.000,g,1.000,10.0,0.4,1 bar,12.0,0.0
+23,Zone Perfect,190.0,22.0,7.0,2.0,Perfectly Simple Nutrition Bar - Oatmeal Chocolate Chip,Brand,serving,45.000,g,1.000,10.0,2.0,1 bar,16.0,0.0
+24,Zone Perfect,210.0,23.0,7.0,3.0,Classic Nutrition Bar - White Chocolate Macadamia,Brand,serving,50.000,g,1.000,14.0,,1 bar,15.0,
+25,Zone Perfect,210.0,23.0,7.0,1.0,Classic Nutrition Bar - Chocolate Almond Raisin,Brand,serving,50.000,g,1.000,15.0,3.5,1 bar,17.0,0.0
+26,Zone Perfect,190.0,20.0,7.0,1.0,Dark Chocolate Nutrition Bar - Caramel Pecan,Brand,serving,45.000,g,1.000,12.0,4.5,1 bar,13.0,0.0
+27,Zone Perfect,190.0,22.0,7.0,1.0,Cookie Dough Nutrition Bar - Peanut Butter,Brand,serving,45.000,g,1.000,10.0,3.0,1 bar,16.0,
+28,Zone Perfect,180.0,17.0,8.0,2.0,Perfectly Simple Nutrition Bar - Bing Cherry & Almond,Brand,serving,40.000,g,1.000,10.0,2.0,1 bar,13.0,
+29,Zone Perfect,200.0,21.0,8.0,1.0,Nutrition Bar - Cookies & Cream Cookie Dough,Brand,serving,,,1.000,10.0,4.0,1 bar,14.0,0.0
+30,Zone Perfect,190.0,22.0,6.0,1.0,Dark Chocolate Nutrition Bar - Double Dark Chocolate,Brand,serving,45.000,g,1.000,12.0,5.0,1 bar,14.0,
+31,Zone Perfect,210.0,25.0,6.0,2.0,Classic Nutrition Bar - Chocolate Caramel Cluster,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,18.0,0.0
+32,Zone Perfect,180.0,24.0,5.0,1.0,Cookie Dough Nutrition Bar - Chocolate Chip,Brand,serving,45.000,g,1.000,10.0,2.5,1 bar,18.0,0.0
+33,Zone Perfect,190.0,21.0,6.0,1.0,Dark Chocolate Nutrition Bar - Cookies N' Creme,Brand,serving,45.000,g,1.000,12.0,4.0,1 bar,14.0,0.0
+34,Zone Perfect,200.0,23.0,7.0,1.0,Sweet & Salty Nutrition Bar - Cashew Pretzel,Brand,serving,45.000,g,1.000,10.0,2.5,1 bar,14.0,0.0
+35,Zone Perfect,170.0,23.0,4.0,2.0,Perfectly Simple Nutrition Bar - Cranberry Almond,Brand,serving,45.000,g,1.000,10.0,0.0,1 bar,19.0,0.0
+36,Zone Perfect,180.0,18.0,8.0,1.0,Perfectly Simple Nutrition Bar - Oatmeal Chocolate Chunk,Brand,serving,40.000,g,1.000,10.0,4.0,1 bar,10.0,0.0

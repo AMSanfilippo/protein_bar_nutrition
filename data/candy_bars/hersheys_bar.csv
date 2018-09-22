@@ -1,0 +1,24 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Hershey's,210.0,24.0,13.0,1.0,Heath Bar,Brand,serving,99.000,g,1.000,1.0,7.0,1 bar,24.0,
+1,Hershey's,200.0,25.0,12.0,,Skor Bar,Brand,serving,39.000,g,1.000,1.0,7.0,1 bar,24.0,
+2,Hershey's,230.0,28.0,12.0,0.5,Whatchamacallit Bar,Brand,serving,45.000,g,1.000,3.0,9.0,1 bar,21.0,0.0
+3,Hershey's,220.0,26.0,13.0,1.0,Milk Chocolate Bar,Brand,serving,43.000,g,1.000,3.0,8.0,1 bar,24.0,0.0
+4,Hershey's,250.0,29.0,13.0,1.0,Payday Avalanche Bar,Brand,serving,51.000,g,1.000,4.0,5.0,1 bar,24.0,0.0
+5,Hershey's,230.0,37.0,8.0,0.0,Zero Candy Bar,Brand,serving,52.000,g,1.000,3.0,5.0,1 bar,31.0,0.0
+6,Hershey's,230.0,28.0,12.0,0.0,Candy Cane Bar,Brand,serving,43.000,g,1.000,3.0,7.0,1 bar,23.0,0.0
+7,Hershey's,370.0,45.0,20.0,1.0,Whatchamacallit Bar (King Size),Brand,serving,73.000,g,1.000,4.0,15.0,1 bar,33.0,0.0
+8,Hershey's,160.0,21.0,12.0,3.0,Bliss Dark Chocolate Bar,Brand,serving,36.000,g,1.000,2.0,7.0,1 bar,17.0,0.0
+9,Hershey's,210.0,24.0,13.0,0.0,Symphony Milk Chocolate Bar,Brand,serving,42.000,g,1.000,3.0,8.0,1 bar,23.0,
+10,Hershey's,260.0,38.0,12.0,1.0,5th Avenue Candy Bar,Brand,serving,56.000,g,1.000,4.0,5.0,1 bar,29.0,
+11,Hershey's,220.0,27.0,12.0,0.0,Cherry Cheesecake Chocolate Bar,Brand,serving,42.000,g,1.000,3.0,7.0,1 bar,21.0,0.0
+12,Hershey's,220.0,26.0,12.0,0.0,Cookies 'n' Cream Bar,Brand,serving,43.000,g,1.000,3.0,7.0,1 bar,19.0,
+13,Hershey's,200.0,24.0,13.0,3.0,Special Dark Chocolate Bar,Brand,serving,41.000,g,1.000,2.0,8.0,1 bar,20.0,
+14,Hershey's,220.0,22.0,14.0,0.0,Gold Peanuts & Pretzels Bar,Brand,serving,39.000,g,1.000,3.0,7.0,1 bar,20.0,
+15,Hershey's,220.0,27.0,11.0,0.0,Cookies 'n' Creme Chocolate Bar,Brand,serving,43.000,g,1.000,3.0,7.0,1 bar,19.0,0.5
+16,Hershey's,210.0,21.0,14.0,2.0,Milk Chocolate Bar with Almonds,Brand,serving,52.000,g,1.000,4.0,6.0,1 bar,19.0,
+17,Hershey's,360.0,44.0,22.0,2.0,Milk Chocolate Bar (King Size),Brand,serving,,,1.000,6.0,13.0,1 bar,41.0,0.0
+18,Hershey's,240.0,28.0,13.0,3.0,Mounds Dark Chocolate Candy Bar,Brand,serving,49.000,g,1.000,2.0,10.0,1 bar,20.0,0.0
+19,Hershey's,370.0,45.0,19.0,1.0,Cookies 'n' Creme Bar (King Size),Brand,serving,,,1.000,6.0,11.0,1 bar,32.0,1.0
+20,Hershey's,190.0,25.0,12.0,3.0,Special Dark Mildly Sweet Chocolate Bar,Brand,serving,41.000,g,1.000,2.0,8.0,1 bar,21.0,
+21,Hershey's,220.0,23.0,14.0,0.0,Symphony Milk Chocolate with Almonds & Toffee Bar,Brand,serving,42.000,g,1.000,4.0,8.0,1 bar,22.0,
+22,Hershey's,380.0,40.0,24.0,3.0,Milk Chocolate Bar with Almonds (King Size),Brand,serving,2.600,g,1.000,7.0,12.0,1 bar,36.0,0.0

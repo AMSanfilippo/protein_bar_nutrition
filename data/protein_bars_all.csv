@@ -1,0 +1,296 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Zone Perfect,200.0,22.0,7.0,1.0,Apple Gingersnap Nutrition Bar,Brand,serving,45.0,g,1.0,11.0,3.0,1 bar,16.0,0.0
+1,Zone Perfect,210.0,24.0,6.0,3.0,Fruitified Nutrition Bar - Blueberry,Brand,serving,50.0,g,1.0,14.0,3.0,1 bar,16.0,0.0
+2,Zone Perfect,200.0,24.0,6.0,3.0,Fruitified Nutrition Bar - Banana Nut,Brand,serving,50.0,g,1.0,14.0,1.5,1 bar,12.0,0.0
+3,Zone Perfect,180.0,27.0,2.0,3.0,Fruitified Nutrition Bar - Apple Cinnamon,Brand,serving,50.0,g,1.0,14.0,0.5,1 bar,17.0,0.0
+4,Zone Perfect,210.0,24.0,6.0,3.0,Classic Nutrition Bar - Blueberry Pomegranate,Brand,serving,50.0,g,1.0,14.0,3.0,1 bar,16.0,0.0
+5,Zone Perfect,210.0,23.0,7.0,3.0,Classic Nutrition Bar - Fudge Graham,Brand,serving,50.0,g,1.0,14.0,3.5,1 bar,15.0,0.0
+6,Zone Perfect,190.0,22.0,6.0,2.0,Dark Chocolate Nutrition Bar - Almond,Brand,serving,45.0,g,1.0,12.0,4.0,1 bar,13.0,0.0
+7,Zone Perfect,210.0,22.0,7.0,1.0,Classic Nutrition Bar - Cinnamon Roll,Brand,serving,50.0,g,1.0,15.0,4.0,1 bar,15.0,0.0
+8,Zone Perfect,170.0,19.0,6.0,0.0,Revitalize Bar - Hot Chocolate Marshmallow,Brand,serving,40.0,g,1.0,11.0,3.0,1 bar,12.0,
+9,Zone Perfect,200.0,25.0,6.0,3.0,Fruitified Nutrition Bar - Strawberry Yogurt,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,15.0,0.0
+10,Zone Perfect,180.0,18.0,7.0,,Revitalize Bar - Salted Caramel Latte,Brand,serving,40.0,g,1.0,11.0,3.0,1 bar,14.0,
+11,Zone Perfect,180.0,22.0,5.0,1.0,Dark Chocolate Nutrition Bar - Strawberry,Brand,serving,45.0,g,1.0,12.0,4.0,1 bar,14.0,
+12,Zone Perfect,210.0,24.0,7.0,3.0,Classic Nutrition Bar - Chocolate Mint,Brand,serving,50.0,g,1.0,14.0,4.5,1 bar,14.0,
+13,Zone Perfect,180.0,21.0,5.0,1.0,Dark Chocolate Nutrition Bar - Mocha,Brand,serving,45.0,g,1.0,12.0,3.5,1 bar,13.0,0.0
+14,Zone Perfect,210.0,22.0,7.0,1.0,Classic Nutrition Bar - Chocolate Coconut Crunch,Brand,serving,50.0,g,1.0,15.0,4.5,1 bar,16.0,0.0
+15,Zone Perfect,210.0,24.0,7.0,3.0,Classic Nutrition Bar - Chocolate Peanut Butter,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,15.0,0.0
+16,Zone Perfect,200.0,14.0,11.0,2.0,Perfectly Simple Nutrition Bar - Almond Toffee Crunch,Brand,serving,40.0,g,1.0,10.0,2.5,1 bar,8.0,
+17,Zone Perfect,170.0,25.0,3.5,1.0,Cookie Dough Nutrition Bar - Oatmeal Raisin,Brand,serving,45.0,g,1.0,10.0,1.5,1 bar,16.0,0.0
+18,Zone Perfect,200.0,20.0,8.0,2.0,Perfectly Simple Nutrition Bar - Toasted Coconut,Brand,serving,45.0,g,1.0,10.0,4.5,1 bar,16.0,0.0
+19,Zone Perfect,190.0,20.0,8.0,3.0,Perfectly Simple Nutrition Bar - Peanut Crunch,Brand,serving,45.0,g,1.0,10.0,2.0,1 bar,14.0,0.0
+20,Zone Perfect,210.0,21.0,7.0,,All Natural Nutrition Bar -  Chocolate Raspberry,Brand,serving,50.0,g,1.0,15.0,7.0,1 bar,,
+21,Zone Perfect,190.0,24.0,5.0,3.0,All Natural Nutrition Bar - Orange Cranberry,Brand,serving,50.0,g,1.0,14.0,2.5,1 bar,11.0,0.0
+22,Zone Perfect,200.0,21.0,8.0,1.0,Sweet & Salty Nutrition Bar - Trail Mix,Brand,serving,45.0,g,1.0,10.0,0.4,1 bar,12.0,0.0
+23,Zone Perfect,190.0,22.0,7.0,2.0,Perfectly Simple Nutrition Bar - Oatmeal Chocolate Chip,Brand,serving,45.0,g,1.0,10.0,2.0,1 bar,16.0,0.0
+24,Zone Perfect,210.0,23.0,7.0,3.0,Classic Nutrition Bar - White Chocolate Macadamia,Brand,serving,50.0,g,1.0,14.0,,1 bar,15.0,
+25,Zone Perfect,210.0,23.0,7.0,1.0,Classic Nutrition Bar - Chocolate Almond Raisin,Brand,serving,50.0,g,1.0,15.0,3.5,1 bar,17.0,0.0
+26,Zone Perfect,190.0,20.0,7.0,1.0,Dark Chocolate Nutrition Bar - Caramel Pecan,Brand,serving,45.0,g,1.0,12.0,4.5,1 bar,13.0,0.0
+27,Zone Perfect,190.0,22.0,7.0,1.0,Cookie Dough Nutrition Bar - Peanut Butter,Brand,serving,45.0,g,1.0,10.0,3.0,1 bar,16.0,
+28,Zone Perfect,180.0,17.0,8.0,2.0,Perfectly Simple Nutrition Bar - Bing Cherry & Almond,Brand,serving,40.0,g,1.0,10.0,2.0,1 bar,13.0,
+29,Zone Perfect,200.0,21.0,8.0,1.0,Nutrition Bar - Cookies & Cream Cookie Dough,Brand,serving,,,1.0,10.0,4.0,1 bar,14.0,0.0
+30,Zone Perfect,190.0,22.0,6.0,1.0,Dark Chocolate Nutrition Bar - Double Dark Chocolate,Brand,serving,45.0,g,1.0,12.0,5.0,1 bar,14.0,
+31,Zone Perfect,210.0,25.0,6.0,2.0,Classic Nutrition Bar - Chocolate Caramel Cluster,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,18.0,0.0
+32,Zone Perfect,180.0,24.0,5.0,1.0,Cookie Dough Nutrition Bar - Chocolate Chip,Brand,serving,45.0,g,1.0,10.0,2.5,1 bar,18.0,0.0
+33,Zone Perfect,190.0,21.0,6.0,1.0,Dark Chocolate Nutrition Bar - Cookies N' Creme,Brand,serving,45.0,g,1.0,12.0,4.0,1 bar,14.0,0.0
+34,Zone Perfect,200.0,23.0,7.0,1.0,Sweet & Salty Nutrition Bar - Cashew Pretzel,Brand,serving,45.0,g,1.0,10.0,2.5,1 bar,14.0,0.0
+35,Zone Perfect,170.0,23.0,4.0,2.0,Perfectly Simple Nutrition Bar - Cranberry Almond,Brand,serving,45.0,g,1.0,10.0,0.0,1 bar,19.0,0.0
+36,Zone Perfect,180.0,18.0,8.0,1.0,Perfectly Simple Nutrition Bar - Oatmeal Chocolate Chunk,Brand,serving,40.0,g,1.0,10.0,4.0,1 bar,10.0,0.0
+0,RxBar,210.0,24.0,9.0,6.0,Chocolate Sea Salt,Brand,serving,52.0,g,1.0,12.0,2.0,1 bar,15.0,0.0
+1,RxBar,210.0,22.0,10.0,4.0,Peanut Butter Chocolate,Brand,serving,52.0,g,1.0,12.0,2.0,1 bar,13.0,0.0
+2,RxBar,210.0,24.0,7.0,4.0,Blueberry,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,15.0,0.0
+3,RxBar,210.0,24.0,8.0,6.0,Peanut Butter,Brand,serving,52.0,g,1.0,12.0,1.5,1 bar,15.0,0.0
+4,RxBar,210.0,22.0,9.0,4.0,Coconut Chocolate,Brand,serving,52.0,g,1.0,12.0,1.5,1 bar,13.0,
+5,RxBar,220.0,22.0,10.0,5.0,Chocolate Chip,Brand,serving,52.0,g,1.0,12.0,2.0,1 bar,12.0,
+6,RxBar,210.0,24.0,7.0,5.0,Mixed Berry,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,14.0,0.0
+7,RxBar,220.0,22.0,10.0,5.0,Maple Sea Salt,Brand,serving,52.0,g,1.0,12.0,1.5,1 bar,14.0,0.0
+8,RxBar,210.0,23.0,9.0,5.0,Mint Chocolate,Brand,serving,52.0,g,1.0,12.0,2.0,1 bar,13.0,0.0
+9,RxBar,210.0,23.0,9.0,5.0,Apple Cinnamon,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,14.0,0.0
+10,RxBar,210.0,23.0,9.0,6.0,Coffee Chocolate,Brand,serving,52.0,g,1.0,12.0,2.5,1 bar,13.0,0.0
+11,RxBar,210.0,23.0,8.0,3.0,Pumpkin Spice,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,15.0,0.0
+12,RxBar,210.0,22.0,8.0,4.0,Coconut Cacao,Brand,serving,52.0,g,1.0,12.0,3.0,1 bar,14.0,0.0
+13,RxBar,200.0,22.0,8.0,4.0,Coffee Cacao,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,14.0,0.0
+14,RxBar,210.0,24.0,9.0,4.0,Gingerbread,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,14.0,
+15,RxBar,200.0,24.0,7.0,4.0,Mango Pineapple,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,14.0,0.0
+16,RxBar,200.0,25.0,7.0,,Peanut Butter & Berries,Brand,serving,52.0,g,1.0,12.0,1.0,1 bar,15.0,
+17,RxBar,210.0,23.0,9.0,5.0,Chocolate Hazelnut,Brand,serving,52.0,g,1.0,12.0,1.5,1 bar,14.0,0.0
+0,PowerBar,210.0,25.0,6.0,4.0,ProteinPlus - Chocolate Peanut Butter (60g),Brand,serving,60.0,g,1.0,20.0,3.0,1 bar,12.0,0.0
+1,PowerBar,210.0,27.0,5.0,4.0,ProteinPlus - Vanilla,Brand,serving,40.0,g,1.0,20.0,3.0,1 bar,14.0,0.0
+2,PowerBar,190.0,25.0,5.0,13.0,Clean Whey Protein Bar - Chocolate Chip Cookie Dough,Brand,serving,60.0,g,1.0,20.0,,1 bar,2.0,
+3,PowerBar,190.0,25.0,5.0,13.0,Clean Whey Protein Bar,Brand,serving,60.0,g,1.0,20.0,2.5,1 bar,2.0,0.0
+4,PowerBar,190.0,25.0,5.0,12.0,Clean Whey Protein Bar - Cookies & Cream,Brand,serving,60.0,g,1.0,20.0,3.0,1 bar,2.0,0.0
+5,PowerBar,230.0,22.0,13.0,8.0,Plant Protein Dark Chocolate Almond Sea Salt,Brand,serving,50.0,g,1.0,10.0,2.5,1 bar,10.0,
+6,PowerBar,200.0,25.0,7.0,5.0,ProteinPlus - Lemon Poppy Seed Pound Cake,Brand,serving,60.0,g,1.0,20.0,2.5,1 bar,3.0,
+7,PowerBar,240.0,44.0,4.0,1.0,Performance Energy - Peanut Butter,Brand,serving,65.0,g,1.0,9.0,1.0,1 bar,26.0,0.0
+8,PowerBar,190.0,25.0,4.5,12.0,Clean Whey Protein Bar - White Fudge Raspberry,Brand,serving,60.0,g,1.0,20.0,2.5,1 bar,2.0,0.0
+9,PowerBar,210.0,27.0,5.0,4.0,ProteinPlus - Cookies & Cream,Brand,serving,78.0,g,1.0,20.0,3.0,1 bar,13.0,
+10,PowerBar,200.0,23.0,9.0,,Triple Threat - Peanut Butter Caramel,Brand,serving,50.0,g,1.0,12.0,,1 bar,,
+11,PowerBar,180.0,24.0,7.0,3.0,Triple Threat - Caramel Nut Brownie,Brand,serving,50.0,g,1.0,12.0,4.0,1 bar,13.0,0.0
+12,PowerBar,250.0,42.0,5.0,5.0,Harvest Whole Grain Energy Bar - Toffee Chocolate Chip,Brand,serving,,,1.0,10.0,2.5,1 bar,20.0,0.0
+13,PowerBar,200.0,24.0,7.0,5.0,ProteinPlus Reduced Sugar - Chocolate Peanut Butter (60g),Brand,serving,60.0,g,1.0,20.0,3.5,1 bar,2.0,0.0
+14,PowerBar,280.0,29.0,9.0,1.0,ProteinPlus - Peanut Butter Cookie,Brand,serving,65.0,g,1.0,20.0,4.0,1 bar,22.0,0.0
+15,PowerBar,220.0,24.0,8.0,6.0,ProteinPlus Reduced Sugar - Chocolate Coconut,Brand,serving,60.0,g,1.0,20.0,3.5,1 bar,2.0,0.0
+16,PowerBar,240.0,45.0,3.0,3.0,Performance Energy - Chocolate,Brand,serving,,,1.0,8.0,1.0,1 bar,25.0,0.0
+17,PowerBar,330.0,40.0,9.0,5.0,ProteinPlus - Chocolate Brownie,Brand,serving,93.0,g,1.0,30.0,4.5,1 bar,27.0,0.0
+18,PowerBar,220.0,32.0,6.0,4.0,Triple Threat - Chocolate Peanut Butter Crisp,Brand,serving,,,1.0,11.0,2.5,1 bar,13.0,0.0
+19,PowerBar,270.0,30.0,8.0,2.0,ProteinPlus - Chocolate Mint Cookie,Brand,serving,65.0,g,1.0,20.0,4.0,1 bar,20.0,0.0
+20,PowerBar,230.0,24.0,12.0,7.0,Plant Protein Dark Chocolate Salted Caramel Cashew,Brand,serving,50.0,g,1.0,10.0,3.5,1 bar,10.0,0.0
+21,PowerBar,170.0,21.0,8.0,2.0,Pria Protein Select Nutrition Bar,Brand,serving,48.0,g,1.0,10.0,5.0,1 bar,1.0,
+22,PowerBar,240.0,45.0,3.5,1.0,Performance Energy - Vanilla Crisp,Brand,serving,,,1.0,8.0,0.5,1 bar,26.0,0.0
+23,PowerBar,300.0,39.0,6.0,1.0,ProteinPlus - Chocolate Peanut Butter (78g),Brand,serving,78.0,g,1.0,23.0,3.5,1 bar,19.0,0.0
+24,PowerBar,230.0,30.0,9.0,3.0,Triple Threat - Chocolate Caramel Fusion,Brand,serving,55.0,g,1.0,10.0,4.5,1 bar,15.0,0.0
+25,PowerBar,175.0,16.5,4.6,7.5,ProteinPlus - Chocolate,Brand,serving,55.0,g,1.0,16.7,2.6,1 bar,15.8,
+26,PowerBar,210.0,21.0,10.0,2.0,Nut Naturals Energy Bar - Fruit & Nuts,Brand,serving,45.0,g,1.0,10.0,1.5,1 bar,9.0,0.0
+27,PowerBar,240.0,42.0,4.0,5.0,Harvest Whole Grain Energy Bar - Strawberry Crunch,Brand,serving,65.0,g,1.0,9.0,0.5,1 bar,21.0,
+28,PowerBar,210.0,23.0,9.0,3.0,Harvest Long Lasting Energy Bar,Brand,serving,47.0,g,1.0,10.0,2.0,1 bar,15.0,
+0,Pure Protein,210.0,24.0,8.0,15.0,Cookies & Cream Bar High Protein Bar,Brand,serving,60.0,g,1.0,20.0,2.5,1 bar,2.0,0.0
+1,Pure Protein,190.0,24.0,7.0,16.0,Plus Apple Pie Bar,Brand,serving,2.11,oz,1.0,20.0,1.5,1 bar,3.0,0.0
+2,Pure Protein,200.0,23.0,8.0,16.0,Plus Mocha Brownie Bar,Brand,serving,60.0,g,1.0,20.0,2.5,1 bar,2.0,
+3,Pure Protein,310.0,30.0,8.0,0.0,S'mores High Protein Bar,Brand,serving,78.0,g,1.0,29.0,6.0,1 bar,4.0,0.0
+4,Pure Protein,190.0,25.0,6.0,5.0,Blueberry Oatmeal Breakfast Bar,Brand,serving,50.0,g,1.0,12.0,3.0,1 bar,4.0,0.0
+5,Pure Protein,190.0,26.0,6.0,5.0,Strawberry Waffle Breakfast Bar,Brand,serving,50.0,g,1.0,12.0,3.0,1 bar,3.0,0.0
+6,Pure Protein,200.0,21.0,6.0,5.0,Fruit & Nut High Protein Bar,Brand,serving,53.0,g,1.0,18.0,,1 bar,7.0,
+7,Pure Protein,200.0,18.0,5.0,0.0,Birthday Cake High Protein Bar,Brand,serving,,,1.0,20.0,3.5,1 bar,3.0,0.0
+8,Pure Protein,280.0,26.0,9.0,1.0,Revolution Chocolate Peanut Caramel Bar,Brand,serving,78.0,g,1.0,32.0,6.0,1 bar,2.0,0.0
+9,Pure Protein,200.0,19.0,5.0,0.0,S'mores High Protein Bar (Small),Brand,serving,50.0,g,1.0,19.0,3.5,1 bar,2.0,0.0
+10,Pure Protein,200.0,23.0,7.0,15.0,Chocolate Chip Cookie Dough Bar,Brand,serving,2.11,oz,1.0,21.0,2.0,1 bar,2.0,0.0
+11,Pure Protein,280.0,26.0,7.0,3.0,Chocolate Deluxe High Protein Bar,Brand,serving,78.0,g,1.0,32.0,5.0,1 bar,4.0,0.0
+12,Pure Protein,280.0,29.0,6.0,0.0,Strawberry Shortcake High Protein Bar,Brand,serving,78.0,g,1.0,29.0,4.5,1 bar,4.0,0.0
+13,Pure Protein,190.0,17.0,5.0,1.0,Red Velvet High Protein Bar,Brand,serving,50.0,g,1.0,20.0,4.0,1 bar,3.0,0.0
+14,Pure Protein,300.0,29.0,10.0,2.0,Blueberry Crumb Cake High Protein Bar,Brand,serving,78.0,g,1.0,28.0,6.0,1 bar,3.0,
+15,Pure Protein,310.0,25.0,10.0,2.0,Chocolate Peanut Butter High Protein Bar,Brand,serving,78.0,g,1.0,31.0,4.5,1 bar,3.0,0.0
+16,Pure Protein,190.0,14.0,8.0,1.0,Double Chocolate Vanilla Crunch Protein Bar,Brand,serving,1.58,oz,1.0,17.0,4.0,1 bar,5.0,0.0
+0,Exo,290.0,26.0,14.0,5.0,Apple Cinnamon Protein Bar,Brand,serving,60.0,g,1.0,10.0,1.0,1 bar,16.0,0.0
+1,Exo,260.0,23.0,16.0,6.0,Blueberry Vanilla Protein Bar,Brand,serving,60.0,g,1.0,10.0,1.5,1 bar,14.0,0.0
+2,Exo,300.0,23.0,20.0,7.0,Cocoa Nut Protein Bar,Brand,serving,60.0,g,1.0,10.0,4.5,1 bar,13.0,0.0
+3,Exo,270.0,28.0,14.0,5.0,Peanut Butter & Jelly Protein Bar,Brand,serving,60.0,g,1.0,10.0,2.5,1 bar,18.0,0.0
+0,Clif Bar,260.0,41.0,7.0,4.0,Clif Bar - Crunchy Peanut Butter,Brand,serving,68.0,g,1.0,11.0,1.0,1 bar,20.0,0.0
+1,Clif Bar,250.0,45.0,5.0,4.0,Clif Bar - Chocolate Chip,Brand,serving,68.0,g,1.0,10.0,1.5,1 bar,22.0,0.0
+2,Clif Bar,260.0,42.0,7.0,4.0,Clif Bar - White Chocolate Macadamia Nut,Brand,serving,68.0,g,1.0,9.0,2.0,1 bar,20.0,0.0
+3,Clif Bar,280.0,29.0,10.0,2.0,Builder's Bar - Chocolate Peanut Butter,Brand,serving,68.0,g,1.0,20.0,5.0,1 bar,21.0,0.0
+4,Clif Bar,270.0,29.0,9.0,2.0,Builder's Bar - Chocolate Mint,Brand,serving,68.0,g,1.0,20.0,6.0,1 bar,22.0,0.0
+5,Clif Bar,250.0,45.0,5.0,5.0,Clif Bar - Chocolate Brownie,Brand,serving,68.0,g,1.0,9.0,1.5,1 bar,22.0,0.0
+6,Clif Bar,250.0,44.0,5.0,5.0,Clif Bar - Oatmeal Raisin Walnut,Brand,serving,68.0,g,1.0,10.0,0.5,1 bar,20.0,0.0
+7,Clif Bar,270.0,30.0,9.0,3.0,Builder's Bar - Vanilla Almond,Brand,serving,68.0,g,1.0,20.0,5.0,1 bar,22.0,0.0
+8,Clif Bar,280.0,30.0,10.0,2.0,Builder's Bar - Crunchy Peanut Butter,Brand,serving,68.0,g,1.0,20.0,5.0,1 bar,23.0,0.0
+9,Clif Bar,250.0,44.0,5.0,5.0,Clif Bar - Blueberry Crisp,Brand,serving,68.0,g,1.0,10.0,0.5,1 bar,22.0,0.0
+10,Clif Bar,230.0,27.0,10.0,3.0,Nut Butter Filled Bar - Chocolate Peanut Butter,Brand,serving,50.0,g,1.0,7.0,,1 bar,,
+11,Clif Bar,270.0,29.0,9.0,2.0,Builder's Bar - Chocolate,Brand,serving,68.0,g,1.0,20.0,6.0,1 bar,21.0,0.0
+12,Clif Bar,260.0,41.0,7.0,4.0,Clif Bar - Peanut Butter Banana,Brand,serving,68.0,g,1.0,10.0,2.0,1 bar,21.0,
+13,Clif Bar,250.0,43.0,5.0,5.0,Clif Bar - Cool Mint Chocolate,Brand,serving,68.0,g,1.0,10.0,1.5,1 bar,22.0,0.0
+14,Clif Bar,260.0,24.0,13.0,4.0,Whey Protein Bar - Peanut Butter & Chocolate,Brand,serving,56.0,g,1.0,14.0,3.5,1 bar,5.0,0.0
+15,Clif Bar,250.0,43.0,6.0,9.0,Clif Bar - Coconut Chocolate Chip,Brand,serving,68.0,g,1.0,10.0,2.5,1 bar,21.0,0.0
+16,Clif Bar,230.0,27.0,11.0,3.0,Nut Butter Filled Bar - Peanut Butter,Brand,serving,50.0,g,1.0,7.0,2.5,1 bar,9.0,0.0
+17,Clif Bar,230.0,27.0,11.0,3.0,Nut Butter Filled Bar - Coconut Almond Butter,Brand,serving,50.0,g,1.0,7.0,3.0,1 bar,9.0,0.0
+18,Clif Bar,250.0,42.0,6.0,5.0,Clif Bar - Peanut Toffee Buzz,Brand,serving,68.0,g,1.0,10.0,1.5,1 bar,21.0,0.0
+19,Clif Bar,250.0,26.0,11.0,3.0,Whey Protein Bar - Salted Caramel Cashew,Brand,serving,56.0,g,1.0,14.0,3.0,1 bar,5.0,0.0
+20,Clif Bar,260.0,42.0,7.0,4.0,Clif Bar - Chocolate Chip Peanut Crunch,Brand,serving,68.0,g,1.0,10.0,1.5,1 bar,20.0,0.0
+21,Clif Bar,250.0,41.0,7.0,4.0,Clif Bar - Sierra Trail Mix,Brand,serving,68.0,g,1.0,10.0,1.5,1 bar,22.0,0.0
+22,Clif Bar,260.0,24.0,13.0,5.0,Whey Protein Bar - Coconut Almond Chocolate,Brand,serving,56.0,g,1.0,14.0,6.0,1 bar,5.0,
+23,Clif Bar,270.0,30.0,8.0,4.0,Builder's Bar - Cookies 'n Cream,Brand,serving,68.0,g,1.0,20.0,5.0,1 bar,20.0,0.0
+24,Clif Bar,250.0,44.0,4.5,4.0,Clif Bar - Berry Pomegranate Chia,Brand,serving,68.0,g,1.0,10.0,0.5,1 bar,21.0,
+25,Clif Bar,250.0,45.0,5.0,3.0,Energy Bar - Chocolate Chip,Brand,serving,68.0,g,1.0,10.0,2.0,1 bar,21.0,0.0
+26,Clif Bar,270.0,37.0,9.0,4.0,Clif Bar - Nuts & Seeds,Brand,serving,86.0,g,1.0,11.0,1.0,1 bar,17.0,0.0
+27,Clif Bar,270.0,30.0,8.0,4.0,Builder's Bar - Peanut Butter,Brand,serving,68.0,g,1.0,20.0,5.0,1 bar,20.0,0.0
+28,Clif Bar,240.0,45.0,4.0,5.0,Clif Bar - Carrot Cake,Brand,serving,68.0,g,1.0,9.0,1.5,1 bar,25.0,
+29,Clif Bar,250.0,43.0,6.0,5.0,Clif Bar - Chocolate Almond Fudge,Brand,serving,68.0,g,1.0,9.0,1.5,1 bar,22.0,
+0,Vega,240.0,30.0,10.0,6.0,Whole Food Energy Bar - Chocolate,Brand,serving,63.0,g,1.0,10.0,2.0,1 bar,22.0,
+1,Vega,240.0,31.0,10.0,6.0,Whole Food Energy Bar - Natural,Brand,serving,63.0,g,1.0,10.0,1.0,1 bar,23.0,0.0
+2,Vega,240.0,31.0,10.0,6.0,Whole Food Energy Bar - Berry,Brand,serving,63.0,g,1.0,10.0,0.0,1 bar,23.0,0.0
+3,Vega,250.0,29.0,9.0,4.0,Sport Protein Bar - Chocolate Coconut,Brand,serving,60.0,g,1.0,15.0,4.5,1 bar,19.0,
+4,Vega,190.0,22.0,8.0,4.0,Protein Snack Bar Coconut Almond,Brand,serving,45.0,g,1.0,10.0,3.5,1 bar,11.0,0.0
+5,Vega,190.0,21.0,8.0,4.0,Protein & Snack Bar Chocolate Caramel,Brand,serving,45.0,g,1.0,10.0,4.0,1 bar,11.0,
+6,Vega,180.0,25.0,7.0,10.0,Whole Food Vibrancy Bar - Wholesome Original,Brand,serving,50.0,g,1.0,10.0,0.5,1 bar,10.0,0.0
+7,Vega,200.0,22.0,9.0,5.0,Whole Food Vibrancy Bar - Green Synergy,Brand,serving,50.0,g,1.0,9.0,1.0,1 bar,11.0,0.0
+8,Vega,180.0,24.0,7.0,10.0,Whole Food Vibrancy Bar - Chocolate Decadence,Brand,serving,50.0,g,1.0,10.0,1.0,1 bar,10.0,0.0
+9,Vega,260.0,27.0,11.0,3.0,Sport Protein Bar - Chocolate Peanut Butter,Brand,serving,60.0,g,1.0,15.0,3.0,1 bar,16.0,0.0
+10,Vega,180.0,25.0,7.0,10.0,Whole Food Vibrancy Bar - Berry Bliss,Brand,serving,,,1.0,10.0,,1 bar,10.0,
+11,Vega,200.0,24.0,9.0,4.0,Protein & Snack Bar Chocolate Peanut Butter,Brand,serving,49.0,g,1.0,11.0,,1 bar,12.0,
+12,Vega,190.0,20.0,8.0,4.0,Protein Snack Bar Chocolate Peanut Butter,Brand,serving,45.0,g,1.0,10.0,4.0,1 bar,11.0,
+13,Vega Sport,240.0,30.0,8.0,3.0,Protein Bar,Brand,serving,60.0,g,1.0,15.0,3.5,1 bar,19.0,0.0
+14,Vega Sport,190.0,30.0,5.0,4.0,Endurance Bar,Brand,serving,50.0,g,1.0,8.0,0.5,1 bar,19.0,0.0
+15,Vega One,270.0,34.0,11.0,3.0,Chocolate Peanut Butter Bar,Brand,serving,64.0,g,1.0,13.0,3.5,1 bar,18.0,0.0
+16,Vega One,270.0,35.0,11.0,3.0,Chocolate Coconut Cashew Bar,Brand,serving,64.0,g,1.0,12.0,5.0,1 bar,18.0,
+17,Vegan Perfect Bar,260.0,30.0,14.0,6.0,Almond Coconut,Brand,serving,64.0,g,1.0,8.0,3.0,1 bar,20.0,0.0
+0,thinkThin,150.0,20.0,4.5,5.0,Lean Protein & Fiber Bar,Brand,serving,40.0,g,1.0,10.0,1.5,1 bar,5.0,
+1,thinkThin,150.0,19.0,5.0,6.0,Lemon Cranberry Chia Bar,Brand,serving,36.0,g,1.0,6.0,1.0,1 bar,6.0,0.0
+2,thinkThin,150.0,19.0,5.0,5.0,S'mores Protein & Fiber Bar,Brand,serving,40.0,g,1.0,10.0,1.5,1 bar,5.0,0.0
+3,thinkThin,190.0,15.0,13.0,4.0,Mixed Nuts Crunch Bar,Brand,serving,40.0,g,1.0,8.0,1.5,1 bar,4.0,0.0
+4,thinkThin,200.0,23.0,7.0,1.0,Chocolate Covered Strawberries Bar,Brand,serving,50.0,g,1.0,15.0,3.0,1 bar,0.0,0.0
+5,thinkThin,180.0,16.0,11.0,4.0,Coconut Chocolate Mixed Nuts Bar,Brand,serving,40.0,g,1.0,9.0,3.5,1 bar,7.0,0.0
+6,thinkThin,240.0,23.0,9.0,1.0,Caramel Fudge High Protein Bar,Brand,serving,60.0,g,1.0,20.0,3.0,1 bar,0.0,0.0
+7,thinkThin,180.0,24.0,6.0,5.0,Chocolate Peanut Butter Toffee Bar,Brand,serving,50.0,g,1.0,13.0,2.0,1 bar,2.0,0.0
+8,thinkThin,240.0,25.0,9.0,,Chocolate Strawberry High Protein Bar,Brand,serving,60.0,g,1.0,20.0,2.5,1 bar,0.0,
+9,thinkThin,230.0,24.0,9.0,0.0,Lemon Delight High Protein Bar,Brand,serving,60.0,g,1.0,20.0,3.5,1 bar,0.0,
+10,thinkThin,150.0,20.0,5.0,5.0,Cupcake Batter Protein & Fiber Bar,Brand,serving,40.0,g,1.0,10.0,2.0,1 bar,5.0,0.0
+11,thinkThin,230.0,23.0,9.0,1.0,Maple Almond High Protein Bar,Brand,serving,60.0,g,1.0,20.0,2.5,1 bar,0.0,0.0
+12,thinkThin,230.0,26.0,7.0,2.0,Dark Chocolate High Protein Bar,Brand,serving,2.1,oz,1.0,20.0,4.0,1 bar,0.0,0.0
+13,thinkThin,230.0,25.0,7.0,1.0,Cookies & Creme High Protein Bar,Brand,serving,60.0,g,1.0,20.0,3.5,1 bar,14.0,0.0
+14,thinkThin,190.0,15.0,13.0,4.0,Original Mixed Nuts Crunch Bar,Brand,serving,40.0,g,1.0,8.0,1.5,1 bar,4.0,0.0
+15,thinkThin,190.0,16.0,12.0,3.0,Protein Nut Bar Dark Chocolate,Brand,serving,1.41,oz,1.0,9.0,2.5,1 bar,8.0,0.0
+16,thinkThin,200.0,21.0,7.0,1.0,Chocolate Covered Strawberries Protein Bar,Brand,serving,50.0,g,1.0,15.0,3.0,1 bar,0.0,
+17,thinkThin,200.0,22.0,7.0,1.0,Tangerine Cremesicle High Protein Bar,Brand,serving,50.0,g,1.0,15.0,2.5,1 bar,0.0,0.0
+18,thinkThin,230.0,24.0,8.0,,White Chocolate High Protein Bar,Brand,serving,60.0,g,1.0,20.0,3.5,1 bar,,0.0
+19,thinkThin,230.0,25.0,8.0,1.0,Chocolate Espresso High Protein Bar,Brand,serving,60.0,g,1.0,20.0,3.0,1 bar,0.0,0.0
+20,thinkThin,180.0,16.0,11.0,4.0,Blueberry Mixed Nuts Crunch Bar,Brand,serving,40.0,g,1.0,8.0,1.5,1 bar,6.0,
+0,Oatmega,200.0,22.0,7.0,7.0,Chocolate Peanut Protein Bar,Brand,serving,50.0,g,1.0,14.0,2.5,1 bar,5.0,0.0
+1,Oatmega,200.0,22.0,7.0,7.0,Chocolate Mint Protein Bar,Brand,serving,50.0,g,1.0,14.0,2.5,1 bar,5.0,0.0
+2,Oatmega,200.0,22.0,7.0,7.0,Chocolate Coconut Protein Bar,Brand,serving,50.0,g,1.0,14.0,3.0,1 bar,5.0,0.0
+3,Oatmega,200.0,22.0,7.0,7.0,Grass-Fed Whey Protein Bar - Lemon Chia,Brand,serving,50.0,g,1.0,14.0,2.0,1 bar,5.0,0.0
+0,Balance Bar,210.0,22.0,7.0,1.0,Cookie Dough,Brand,serving,,,1.0,15.0,4.0,1 bar,17.0,0.0
+1,Balance Bar,200.0,21.0,7.0,0.9,Peanut Butter,Brand,serving,50.0,g,1.0,15.0,3.0,1 bar,17.0,0.0
+2,Balance Bar,200.0,23.0,7.0,2.0,Gold Chocolate Mint Cookie Crunch,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,16.0,0.0
+3,Balance Bar,200.0,22.0,7.0,1.0,Yogurt Honey Peanut,Brand,serving,50.0,g,1.0,15.0,3.5,1 bar,18.0,0.0
+4,Balance Bar,210.0,23.0,7.0,1.0,Caramel Nut Blast,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,14.0,0.0
+5,Balance Bar,200.0,21.0,7.0,1.0,Gold Chocolate Peanut Butter,Brand,serving,50.0,g,1.0,14.0,3.5,1 bar,17.0,0.0
+6,Balance Bar,200.0,21.0,7.0,2.0,Chocolate Craze,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,18.0,0.0
+7,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Crunch,Brand,serving,45.0,g,1.0,13.0,4.0,1 bar,12.0,0.0
+8,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Coconut,Brand,serving,45.0,g,1.0,13.0,4.0,1 bar,12.0,0.0
+9,Balance Bar,200.0,22.0,7.0,1.0,Honey Peanut,Brand,serving,50.0,g,1.0,15.0,3.0,1 bar,17.0,0.0
+10,Balance Bar,200.0,21.0,7.0,2.0,Almond Brownie,Brand,serving,50.0,g,1.0,15.0,2.0,1 bar,17.0,0.0
+11,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Peanut,Brand,serving,45.0,g,1.0,13.0,3.5,1 bar,12.0,0.0
+12,Balance Bar,200.0,22.0,7.0,3.0,Trail Mix Chocolate Chip,Brand,serving,50.0,g,1.0,14.0,3.0,1 bar,14.0,0.0
+13,Balance Bar,200.0,21.0,7.0,5.0,Bare Sweet & Salty Peanut Butter,Brand,serving,50.0,g,1.0,15.0,2.5,1 bar,10.0,0.0
+14,Balance Bar,200.0,22.0,7.0,0.0,Gold Caramel Nut Blast,Brand,serving,50.0,g,1.0,14.0,0.0,1 bar,0.0,0.0
+15,Balance Bar,200.0,20.0,7.0,,Mocha Chip,Brand,serving,50.0,g,1.0,15.0,3.5,1 bar,17.0,0.0
+16,Balance Bar,190.0,23.0,7.0,1.0,Carb Well Chocolate Peanut Butter Bar,Brand,serving,50.0,g,1.0,14.0,4.5,1 bar,1.0,0.0
+17,Balance Bar,200.0,23.0,7.0,2.0,Cafe Cinnamon Bun,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,16.0,0.0
+18,Balance Bar,210.0,22.0,7.0,0.0,Bare Trail Mix Chocolate Chip,Brand,serving,1.76,oz,1.0,15.0,4.0,1 bar,17.0,
+19,Balance Bar,200.0,22.0,7.0,1.0,Gold Triple Chocolate Chaos,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,17.0,0.0
+20,Balance Bar,200.0,22.0,7.0,2.0,Double Chocolate Brownie,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,17.0,
+21,Balance Bar,200.0,23.0,7.0,2.0,Cafe Chocolate Almond Biscotti,Brand,serving,50.0,g,1.0,14.0,3.5,1 bar,16.0,0.0
+22,Balance Bar,180.0,20.0,6.0,4.0,Chocolate Raspberry,Brand,serving,1.58,oz,1.0,13.0,4.0,1 bar,14.0,
+23,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Caramel Macchiato,Brand,serving,45.0,g,1.0,13.0,3.5,1 bar,12.0,0.0
+24,Balance Bar,190.0,23.0,7.0,21.0,Carb Well Caramel 'n Chocolate,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,1.0,
+25,Balance Bar,200.0,23.0,7.0,2.0,Gold Lemon Meringue Crunch,Brand,serving,50.0,g,1.0,14.0,4.5,1 bar,14.0,
+26,Balance Bar,200.0,21.0,7.0,5.0,Bare Sweet & Salty Chocolate Almond,Brand,serving,50.0,g,1.0,15.0,2.5,1 bar,11.0,0.0
+27,Balance Bar,180.0,23.0,7.0,5.0,Organic Cherry Almond Crisp,Brand,serving,45.0,g,1.0,10.0,2.5,1 bar,12.0,0.0
+28,Balance Bar,200.0,23.0,7.0,3.0,Gold S'mores,Brand,serving,50.0,g,1.0,14.0,4.0,1 bar,14.0,
+0,Luna,190.0,22.0,8.0,3.0,Luna Bar - Peanut Honey Pretzel Bar,Brand,serving,48.0,g,1.0,9.0,2.5,1 bar,11.0,
+1,Luna,190.0,27.0,6.0,2.0,Luna Bar - S'mores,Brand,serving,48.0,g,1.0,8.0,2.5,1 bar,9.0,0.0
+2,Luna,190.0,27.0,6.0,2.0,Luna Bar - Blueberry Bliss,Brand,serving,48.0,g,1.0,7.0,2.5,1 bar,10.0,0.0
+3,Luna,190.0,25.0,6.0,3.0,Luna Bar - Vanilla Almond,Brand,serving,48.0,g,1.0,10.0,2.0,1 bar,11.0,0.0
+4,Luna,170.0,29.0,3.5,3.0,Luna Bar - Berry Almond,Brand,serving,48.0,g,1.0,9.0,,1 bar,11.0,0.0
+5,Luna,170.0,27.0,5.0,5.0,Luna Bar - Chocolate Raspberry,Brand,serving,48.0,g,1.0,8.0,2.0,1 bar,13.0,0.0
+6,Luna,180.0,25.0,5.0,3.0,Luna Bar - Chai Tea,Brand,serving,48.0,g,1.0,10.0,2.5,1 bar,13.0,0.0
+7,Luna,180.0,27.0,5.0,4.0,Luna Bar - Chocolate Cupcake,Brand,serving,48.0,g,1.0,9.0,2.5,1 bar,12.0,0.0
+8,Luna,180.0,29.0,4.0,5.0,Luna Bar - Strawberries & Creme,Brand,serving,,,1.0,8.0,2.0,1 bar,11.0,
+9,Luna,190.0,26.0,6.0,3.0,Luna Bar - Lemon Zest,Brand,serving,48.0,g,1.0,9.0,2.5,1 bar,9.0,0.0
+10,Luna,180.0,26.0,5.0,3.0,Luna Bar - Chocolate Chunk,Brand,serving,48.0,g,1.0,9.0,1.5,1 bar,11.0,0.0
+11,Luna,180.0,28.0,6.0,3.0,Luna Bar - Carrot Cake,Brand,serving,48.0,g,1.0,8.0,2.5,1 bar,13.0,0.0
+12,Luna,170.0,21.0,6.0,3.0,Luna Protein Bar - Chocolate,Brand,serving,45.0,g,1.0,12.0,3.5,1 bar,13.0,
+13,Luna,170.0,28.0,4.0,3.0,Luna Bar - Dulce de Leche,Brand,serving,48.0,g,1.0,9.0,1.5,1 bar,13.0,0.0
+14,Luna,180.0,19.0,9.0,2.0,Luna Bar - Cinnamon Almond Swirl,Brand,serving,42.0,g,1.0,7.0,1.0,1 bar,5.0,
+15,Luna,170.0,21.0,4.5,3.0,Luna Protein Bar - Lemon Vanilla,Brand,serving,45.0,g,1.0,12.0,3.0,1 bar,15.0,0.0
+16,Luna,180.0,25.0,5.0,3.0,Luna Bar - Chocolate Pecan Pie,Brand,serving,48.0,g,1.0,10.0,2.5,1 bar,12.0,0.0
+17,Luna,190.0,25.0,7.0,3.0,Luna Bar - White Chocolate Macadamia,Brand,serving,48.0,g,1.0,9.0,2.5,1 bar,11.0,0.0
+18,Luna,200.0,24.0,8.0,3.0,Luna Bar - Honey Salted Peanut,Brand,serving,48.0,g,1.0,10.0,2.5,1 bar,8.0,0.0
+19,Luna,170.0,21.0,6.0,3.0,Luna Protein Bar - Cookie Dough,Brand,serving,45.0,g,1.0,12.0,3.5,1 bar,14.0,0.0
+20,Luna,180.0,26.0,6.0,3.0,Luna Bar - Peanut Butter Cookie,Brand,serving,48.0,g,1.0,9.0,2.0,1 bar,11.0,0.0
+21,Luna,190.0,28.0,6.0,4.0,Luna Bar - Chocolate Peppermint Stick,Brand,serving,48.0,g,1.0,8.0,2.5,1 bar,8.0,0.0
+22,Luna,200.0,24.0,8.0,3.0,Luna Bar - Chocolate Dipped Coconut,Brand,serving,48.0,g,1.0,9.0,4.5,1 bar,8.0,0.0
+23,Luna,190.0,27.0,6.0,3.0,Luna Bar - Carmel Nut Brownie,Brand,serving,48.0,g,1.0,8.0,3.0,1 bar,13.0,0.0
+24,Luna,180.0,27.0,5.0,3.0,Luna Bar - Iced Oatmeal Raisin,Brand,serving,48.0,g,1.0,9.0,2.0,1 bar,13.0,0.0
+25,Luna,200.0,24.0,8.0,3.0,Luna Bar - Nutz Over Chocolate,Brand,serving,48.0,g,1.0,9.0,2.5,1 bar,7.0,0.0
+26,Luna,180.0,20.0,8.0,3.0,Luna Bar - Chocolate Chip Cookie,Brand,serving,42.0,g,1.0,7.0,1.5,1 bar,5.0,0.0
+27,Luna,180.0,20.0,9.0,3.0,Luna Bar - Dark Chocolate Hazelnut,Brand,serving,42.0,g,1.0,7.0,2.0,1 bar,5.0,0.0
+28,Luna,200.0,26.0,8.0,3.0,Luna Bar - Caramel Walnut Brownie,Brand,serving,48.0,g,1.0,8.0,3.5,1 bar,10.0,0.0
+29,Luna,170.0,21.0,8.0,2.0,Luna Bar - Salted Caramel Cashew,Brand,serving,42.0,g,1.0,6.0,1.5,1 bar,5.0,0.0
+30,Luna,180.0,27.0,5.0,3.0,Luna Bar - Cookies 'n Cream Delight,Brand,serving,48.0,g,1.0,8.0,3.0,1 bar,13.0,0.0
+31,Luna,180.0,21.0,8.0,3.0,Luna Bar - Dark Chocolate Mocha Almond,Brand,serving,42.0,g,1.0,7.0,2.0,1 bar,5.0,
+32,Luna,190.0,19.0,8.0,3.0,Luna Protein Bar - Chocolate Peanut Butter,Brand,serving,45.0,g,1.0,12.0,3.5,1 bar,13.0,0.0
+33,Luna,170.0,22.0,5.0,3.0,Luna Protein Bar - Chocolate Salted Caramel,Brand,serving,45.0,g,1.0,12.0,3.0,1 bar,15.0,0.0
+34,Luna,190.0,27.0,6.0,2.0,Whole Nutrition Bar for Women - S'mores,Brand,serving,48.0,g,1.0,8.0,2.5,1 bar,9.0,0.0
+0,Quest,220.0,19.0,12.0,12.0,Pumpkin Pie Protein Bar,Brand,serving,60.0,g,1.0,21.0,5.0,1 bar,0.0,
+1,Quest,210.0,20.0,9.0,13.0,Rocky Road Protein Bar,Brand,serving,,,1.0,20.0,3.0,1 bar,1.0,
+2,Quest,110.0,17.0,4.5,7.0,Beyond Cereal Bar - Chocolate,Brand,serving,38.0,g,1.0,12.0,3.0,1 bar,8.0,0.0
+3,Quest,180.0,24.0,6.0,14.0,Mocha Chocolate Chip Protein Bar,Brand,serving,60.0,g,1.0,20.0,2.0,1 bar,1.0,0.0
+4,Quest,200.0,21.0,8.0,15.0,Cookies & Cream Protein Bar,Brand,serving,60.0,g,1.0,21.0,2.5,1 bar,1.0,
+5,Quest,110.0,17.0,4.5,6.0,Waffle Cereal Protein Bar,Brand,serving,38.0,g,1.0,12.0,2.5,1 bar,8.0,
+6,Quest,110.0,17.0,4.5,7.0,Cinnamon Roll Cereal Protein Bar,Brand,serving,38.0,g,1.0,12.0,2.5,1 bar,8.0,
+7,Quest,200.0,21.0,8.0,14.0,Chocolate Chip Cookie Dough Protein Bar,Brand,serving,60.0,g,1.0,21.0,3.0,1 bar,,0.0
+8,Quest,200.0,27.0,11.0,11.0,Chocolate Caramel Pecan Hero Protein Bar,Brand,serving,60.0,g,1.0,15.0,7.0,1 bar,12.0,
+9,Quest,180.0,23.0,6.0,16.0,Chocolate Brownie Protein Bar,Brand,serving,60.0,g,1.0,20.0,1.0,1 bar,1.0,0.0
+10,Quest,200.0,20.0,10.0,13.0,Peanut Butter & Jelly Protein Bar,Brand,serving,60.0,g,1.0,20.0,2.0,1 bar,2.0,0.0
+11,Quest,200.0,22.0,8.0,16.0,Mint Chocolate Chunk Protein Bar,Brand,serving,60.0,g,1.0,20.0,3.0,1 bar,1.0,0.0
+12,Quest,170.0,30.0,7.0,10.0,Blueberry Cobbler Hero Protein Bar,Brand,serving,60.0,g,1.0,17.0,6.0,1 bar,13.0,0.0
+13,Quest,180.0,22.0,8.0,13.0,Banana Nut Muffin Natural Protein Bar,Brand,serving,60.0,g,1.0,20.0,1.0,1 bar,2.0,0.0
+14,Quest,190.0,21.0,7.0,14.0,Apple Pie Protein Bar,Brand,serving,60.0,g,1.0,20.0,1.0,1 bar,3.0,0.0
+15,Quest,190.0,23.0,7.0,15.0,Coconut Cashew Protein Bar,Brand,serving,60.0,g,1.0,20.0,1.5,1 bar,1.0,0.0
+16,Quest,110.0,17.0,4.5,7.0,Chocolate Cereal Protein Bar,Brand,serving,38.0,g,1.0,12.0,3.0,1 bar,8.0,
+17,Quest,210.0,21.0,9.0,15.0,Peanut Butter Supreme Protein Bar,Brand,serving,60.0,g,1.0,20.0,1.5,1 bar,1.0,0.0
+18,Quest,190.0,22.0,8.0,15.0,Oatmeal Chocolate Chip Protein Bar,Brand,serving,60.0,g,1.0,20.0,1.5,1 bar,1.0,0.0
+19,Quest,190.0,24.0,7.0,14.0,Peanut Butter Brownie Smash Protein Bar,Brand,serving,60.0,g,1.0,20.0,1.5,1 bar,2.0,0.0
+0,GoMacro,200.0,38.0,4.0,3.0,Macrobar Sunny Uplift,Brand,serving,56.0,g,1.0,4.0,0.0,1 bar,16.0,0.0
+1,GoMacro,290.0,39.0,10.0,3.0,Macrobar Peanut Butter Chocolate Chip,Brand,serving,71.0,g,1.0,15.0,2.6,1 bar,19.0,0.0
+2,GoMacro,260.0,37.0,9.0,1.0,Macrobar Protein Purity,Brand,serving,65.0,g,1.0,10.0,2.0,1 bar,10.0,
+3,GoMacro,220.0,36.0,7.0,3.0,Macrobar Granola + Coconut,Brand,serving,,,1.0,4.0,2.0,1 bar,11.0,
+4,GoMacro,240.0,34.0,10.0,0.0,Macrobar Sweet Rejuvenation Cashew Butter,Brand,serving,57.0,g,1.0,4.0,2.0,1 bar,9.0,
+5,GoMacro,270.0,34.0,10.0,2.0,Macrobar Protein Replenishment,Brand,serving,65.0,g,1.0,12.0,2.5,1 bar,12.0,0.0
+6,GoMacro,270.0,35.0,11.0,3.0,Macrobar Everlasting Joy,Brand,serving,65.0,g,1.0,10.0,3.5,1 bar,12.0,
+7,GoMacro,260.0,38.0,8.0,3.0,Macrobar Sunflower Butter + Chocolate,Brand,serving,65.0,g,1.0,10.0,2.0,1 bar,9.0,0.0
+0,PROBAR,290.0,32.0,10.0,5.0,Core Peanut Butter Chocolate,Brand,serving,70.0,g,1.0,20.0,5.0,1 bar,15.0,0.0
+1,PROBAR,290.0,33.0,9.0,4.0,Core Cookie Dough,Brand,serving,70.0,g,1.0,20.0,6.0,1 bar,16.0,0.0
+2,PROBAR,280.0,33.0,9.0,4.0,Core Mint Chocolate,Brand,serving,70.0,g,1.0,20.0,5.0,1 bar,17.0,0.0
+3,PROBAR,280.0,33.0,9.0,4.0,Base Coffee Crunch,Brand,serving,70.0,g,1.0,20.0,6.0,1 bar,16.0,0.0
+4,PROBAR,390.0,43.0,22.0,6.0,Peanut Butter Chocolate Chip Bar,Brand,serving,85.0,g,1.0,11.0,4.5,1 bar,21.0,
+5,PROBAR,380.0,46.0,19.0,7.0,Superfood Slam Bar,Brand,serving,85.0,g,1.0,11.0,4.5,1 bar,17.0,0.0
+6,PROBAR,390.0,44.0,21.0,5.0,Banana Nut Bread,Brand,serving,85.0,g,1.0,9.0,5.0,1 bar,18.0,
+7,PROBAR,380.0,41.0,21.0,6.0,Peanut Butter Bar,Brand,serving,85.0,g,1.0,12.0,3.0,1 bar,16.0,
+8,PROBAR,360.0,51.0,16.0,5.0,Whole Berry Blast Bar,Brand,serving,85.0,g,1.0,8.0,2.0,1 bar,23.0,0.0
+9,PROBAR,370.0,48.0,18.0,6.0,Almond Crunch Bar,Brand,serving,85.0,g,1.0,9.0,2.0,1 bar,19.0,
+10,PROBAR,360.0,47.0,18.0,7.0,Koka Moka Bar,Brand,serving,85.0,g,1.0,9.0,3.5,1 bar,21.0,
+11,PROBAR,380.0,45.0,20.0,7.0,Double Chocolate Bar,Brand,serving,85.0,g,1.0,9.0,3.5,1 bar,18.0,0.0
+12,PROBAR,370.0,48.0,18.0,6.0,Art's Original Blend Bar,Brand,serving,85.0,g,1.0,10.0,3.0,1 bar,19.0,0.0
+13,PROBAR,370.0,48.0,18.0,7.0,Nutty Banana Boom Bar,Brand,serving,85.0,g,1.0,9.0,3.5,1 bar,26.0,0.0
+14,PROBAR,350.0,51.0,15.0,5.0,Superfruit Slam,Brand,serving,85.0,g,1.0,8.0,2.0,1 bar,24.0,0.0
+15,PROBAR,370.0,47.0,19.0,7.0,Apple Cinnamon Crunch Bar,Brand,serving,85.0,g,1.0,9.0,5.0,1 bar,22.0,0.0
+16,PROBAR,370.0,48.0,17.0,6.0,Old School PB&J,Brand,serving,85.0,g,1.0,9.0,2.0,1 bar,20.0,0.0
+17,PROBAR,360.0,50.0,15.0,5.0,Superberry & Greens,Brand,serving,85.0,g,1.0,8.0,2.5,1 bar,22.0,0.0
+18,PROBAR,400.0,39.0,24.0,7.0,Sweet & Savory Sesame Goji Bar,Brand,serving,85.0,g,1.0,12.0,5.0,1 bar,18.0,0.0
+19,PROBAR,400.0,45.0,21.0,6.0,Sweet & Savory Kettle Corn Bar,Brand,serving,85.0,g,1.0,10.0,6.0,1 bar,20.0,0.0
+20,PROBAR,350.0,46.0,17.0,6.0,Cran-Lemon Twister Bar,Brand,serving,85.0,g,1.0,8.0,4.0,1 bar,22.0,0.0
+21,PROBAR,380.0,45.0,19.0,6.0,Sweet & Savory Cherry Pretzel Bar,Brand,serving,85.0,g,1.0,10.0,5.0,1 bar,21.0,0.0
+22,PROBAR,390.0,43.0,23.0,7.0,Sweet & Savory Maple Pecan Bar,Brand,serving,85.0,g,1.0,10.0,4.5,1 bar,17.0,0.0
+23,PROBAR,400.0,39.0,25.0,7.0,Sweet & Savory Cocoa Pistachio Bar,Brand,serving,85.0,g,1.0,12.0,7.0,1 bar,18.0,0.0
+24,PROBAR,370.0,50.0,16.0,4.0,Strawberry Bliss,Brand,serving,85.0,g,1.0,8.0,2.0,1 bar,23.0,0.0

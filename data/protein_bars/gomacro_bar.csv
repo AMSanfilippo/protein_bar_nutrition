@@ -1,0 +1,9 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,GoMacro,200.0,38.0,4.0,3.0,Macrobar Sunny Uplift,Brand,serving,56.000,g,1.000,4.0,0.0,1 bar,16.0,0.0
+1,GoMacro,290.0,39.0,10.0,3.0,Macrobar Peanut Butter Chocolate Chip,Brand,serving,71.000,g,1.000,15.0,2.6,1 bar,19.0,0.0
+2,GoMacro,260.0,37.0,9.0,1.0,Macrobar Protein Purity,Brand,serving,65.000,g,1.000,10.0,2.0,1 bar,10.0,
+3,GoMacro,220.0,36.0,7.0,3.0,Macrobar Granola + Coconut,Brand,serving,,,1.000,4.0,2.0,1 bar,11.0,
+4,GoMacro,240.0,34.0,10.0,0.0,Macrobar Sweet Rejuvenation Cashew Butter,Brand,serving,57.000,g,1.000,4.0,2.0,1 bar,9.0,
+5,GoMacro,270.0,34.0,10.0,2.0,Macrobar Protein Replenishment,Brand,serving,65.000,g,1.000,12.0,2.5,1 bar,12.0,0.0
+6,GoMacro,270.0,35.0,11.0,3.0,Macrobar Everlasting Joy,Brand,serving,65.000,g,1.000,10.0,3.5,1 bar,12.0,
+7,GoMacro,260.0,38.0,8.0,3.0,Macrobar Sunflower Butter + Chocolate,Brand,serving,65.000,g,1.000,10.0,2.0,1 bar,9.0,0.0

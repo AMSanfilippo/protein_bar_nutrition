@@ -1,0 +1,30 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Balance Bar,210.0,22.0,7.0,1.0,Cookie Dough,Brand,serving,,,1.000,15.0,4.0,1 bar,17.0,0.0
+1,Balance Bar,200.0,21.0,7.0,0.9,Peanut Butter,Brand,serving,50.000,g,1.000,15.0,3.0,1 bar,17.0,0.0
+2,Balance Bar,200.0,23.0,7.0,2.0,Gold Chocolate Mint Cookie Crunch,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,16.0,0.0
+3,Balance Bar,200.0,22.0,7.0,1.0,Yogurt Honey Peanut,Brand,serving,50.000,g,1.000,15.0,3.5,1 bar,18.0,0.0
+4,Balance Bar,210.0,23.0,7.0,1.0,Caramel Nut Blast,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,14.0,0.0
+5,Balance Bar,200.0,21.0,7.0,1.0,Gold Chocolate Peanut Butter,Brand,serving,50.000,g,1.000,14.0,3.5,1 bar,17.0,0.0
+6,Balance Bar,200.0,21.0,7.0,2.0,Chocolate Craze,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,18.0,0.0
+7,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Crunch,Brand,serving,45.000,g,1.000,13.0,4.0,1 bar,12.0,0.0
+8,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Coconut,Brand,serving,45.000,g,1.000,13.0,4.0,1 bar,12.0,0.0
+9,Balance Bar,200.0,22.0,7.0,1.0,Honey Peanut,Brand,serving,50.000,g,1.000,15.0,3.0,1 bar,17.0,0.0
+10,Balance Bar,200.0,21.0,7.0,2.0,Almond Brownie,Brand,serving,50.000,g,1.000,15.0,2.0,1 bar,17.0,0.0
+11,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Peanut,Brand,serving,45.000,g,1.000,13.0,3.5,1 bar,12.0,0.0
+12,Balance Bar,200.0,22.0,7.0,3.0,Trail Mix Chocolate Chip,Brand,serving,50.000,g,1.000,14.0,3.0,1 bar,14.0,0.0
+13,Balance Bar,200.0,21.0,7.0,5.0,Bare Sweet & Salty Peanut Butter,Brand,serving,50.000,g,1.000,15.0,2.5,1 bar,10.0,0.0
+14,Balance Bar,200.0,22.0,7.0,0.0,Gold Caramel Nut Blast,Brand,serving,50.000,g,1.000,14.0,0.0,1 bar,0.0,0.0
+15,Balance Bar,200.0,20.0,7.0,,Mocha Chip,Brand,serving,50.000,g,1.000,15.0,3.5,1 bar,17.0,0.0
+16,Balance Bar,190.0,23.0,7.0,1.0,Carb Well Chocolate Peanut Butter Bar,Brand,serving,50.000,g,1.000,14.0,4.5,1 bar,1.0,0.0
+17,Balance Bar,200.0,23.0,7.0,2.0,Cafe Cinnamon Bun,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,16.0,0.0
+18,Balance Bar,210.0,22.0,7.0,0.0,Bare Trail Mix Chocolate Chip,Brand,serving,1.760,oz,1.000,15.0,4.0,1 bar,17.0,
+19,Balance Bar,200.0,22.0,7.0,1.0,Gold Triple Chocolate Chaos,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,17.0,0.0
+20,Balance Bar,200.0,22.0,7.0,2.0,Double Chocolate Brownie,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,17.0,
+21,Balance Bar,200.0,23.0,7.0,2.0,Cafe Chocolate Almond Biscotti,Brand,serving,50.000,g,1.000,14.0,3.5,1 bar,16.0,0.0
+22,Balance Bar,180.0,20.0,6.0,4.0,Chocolate Raspberry,Brand,serving,1.580,oz,1.000,13.0,4.0,1 bar,14.0,
+23,Balance Bar,180.0,20.0,6.0,4.0,Dark Chocolate Caramel Macchiato,Brand,serving,45.000,g,1.000,13.0,3.5,1 bar,12.0,0.0
+24,Balance Bar,190.0,23.0,7.0,21.0,Carb Well Caramel 'n Chocolate,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,1.0,
+25,Balance Bar,200.0,23.0,7.0,2.0,Gold Lemon Meringue Crunch,Brand,serving,50.000,g,1.000,14.0,4.5,1 bar,14.0,
+26,Balance Bar,200.0,21.0,7.0,5.0,Bare Sweet & Salty Chocolate Almond,Brand,serving,50.000,g,1.000,15.0,2.5,1 bar,11.0,0.0
+27,Balance Bar,180.0,23.0,7.0,5.0,Organic Cherry Almond Crisp,Brand,serving,45.000,g,1.000,10.0,2.5,1 bar,12.0,0.0
+28,Balance Bar,200.0,23.0,7.0,3.0,Gold S'mores,Brand,serving,50.000,g,1.000,14.0,4.0,1 bar,14.0,

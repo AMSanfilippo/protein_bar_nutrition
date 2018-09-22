@@ -1,0 +1,4 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Nestle,190.0,25.0,10.0,0.0,Crunch Caramel & Coconut,Brand,serving,1.300,oz,1.000,1.0,9.0,1 bar,17.0,0.0
+1,Nestle,200.0,24.0,11.0,1.0,Crunch Thin Mints,Brand,serving,1.300,oz,1.000,1.0,10.0,1 bar,16.0,
+2,Nestle,220.0,30.0,11.0,1.0,Crunch Candy Bar,Brand,serving,43.900,g,1.000,2.0,7.0,1 bar,24.0,

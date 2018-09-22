@@ -1,0 +1,31 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Clif Bar,260.0,41.0,7.0,4.0,Clif Bar - Crunchy Peanut Butter,Brand,serving,68.000,g,1.000,11.0,1.0,1 bar,20.0,0.0
+1,Clif Bar,250.0,45.0,5.0,4.0,Clif Bar - Chocolate Chip,Brand,serving,68.000,g,1.000,10.0,1.5,1 bar,22.0,0.0
+2,Clif Bar,260.0,42.0,7.0,4.0,Clif Bar - White Chocolate Macadamia Nut,Brand,serving,68.000,g,1.000,9.0,2.0,1 bar,20.0,0.0
+3,Clif Bar,280.0,29.0,10.0,2.0,Builder's Bar - Chocolate Peanut Butter,Brand,serving,68.000,g,1.000,20.0,5.0,1 bar,21.0,0.0
+4,Clif Bar,270.0,29.0,9.0,2.0,Builder's Bar - Chocolate Mint,Brand,serving,68.000,g,1.000,20.0,6.0,1 bar,22.0,0.0
+5,Clif Bar,250.0,45.0,5.0,5.0,Clif Bar - Chocolate Brownie,Brand,serving,68.000,g,1.000,9.0,1.5,1 bar,22.0,0.0
+6,Clif Bar,250.0,44.0,5.0,5.0,Clif Bar - Oatmeal Raisin Walnut,Brand,serving,68.000,g,1.000,10.0,0.5,1 bar,20.0,0.0
+7,Clif Bar,270.0,30.0,9.0,3.0,Builder's Bar - Vanilla Almond,Brand,serving,68.000,g,1.000,20.0,5.0,1 bar,22.0,0.0
+8,Clif Bar,280.0,30.0,10.0,2.0,Builder's Bar - Crunchy Peanut Butter,Brand,serving,68.000,g,1.000,20.0,5.0,1 bar,23.0,0.0
+9,Clif Bar,250.0,44.0,5.0,5.0,Clif Bar - Blueberry Crisp,Brand,serving,68.000,g,1.000,10.0,0.5,1 bar,22.0,0.0
+10,Clif Bar,230.0,27.0,10.0,3.0,Nut Butter Filled Bar - Chocolate Peanut Butter,Brand,serving,50.000,g,1.000,7.0,,1 bar,,
+11,Clif Bar,270.0,29.0,9.0,2.0,Builder's Bar - Chocolate,Brand,serving,68.000,g,1.000,20.0,6.0,1 bar,21.0,0.0
+12,Clif Bar,260.0,41.0,7.0,4.0,Clif Bar - Peanut Butter Banana,Brand,serving,68.000,g,1.000,10.0,2.0,1 bar,21.0,
+13,Clif Bar,250.0,43.0,5.0,5.0,Clif Bar - Cool Mint Chocolate,Brand,serving,68.000,g,1.000,10.0,1.5,1 bar,22.0,0.0
+14,Clif Bar,260.0,24.0,13.0,4.0,Whey Protein Bar - Peanut Butter & Chocolate,Brand,serving,56.000,g,1.000,14.0,3.5,1 bar,5.0,0.0
+15,Clif Bar,250.0,43.0,6.0,9.0,Clif Bar - Coconut Chocolate Chip,Brand,serving,68.000,g,1.000,10.0,2.5,1 bar,21.0,0.0
+16,Clif Bar,230.0,27.0,11.0,3.0,Nut Butter Filled Bar - Peanut Butter,Brand,serving,50.000,g,1.000,7.0,2.5,1 bar,9.0,0.0
+17,Clif Bar,230.0,27.0,11.0,3.0,Nut Butter Filled Bar - Coconut Almond Butter,Brand,serving,50.000,g,1.000,7.0,3.0,1 bar,9.0,0.0
+18,Clif Bar,250.0,42.0,6.0,5.0,Clif Bar - Peanut Toffee Buzz,Brand,serving,68.000,g,1.000,10.0,1.5,1 bar,21.0,0.0
+19,Clif Bar,250.0,26.0,11.0,3.0,Whey Protein Bar - Salted Caramel Cashew,Brand,serving,56.000,g,1.000,14.0,3.0,1 bar,5.0,0.0
+20,Clif Bar,260.0,42.0,7.0,4.0,Clif Bar - Chocolate Chip Peanut Crunch,Brand,serving,68.000,g,1.000,10.0,1.5,1 bar,20.0,0.0
+21,Clif Bar,250.0,41.0,7.0,4.0,Clif Bar - Sierra Trail Mix,Brand,serving,68.000,g,1.000,10.0,1.5,1 bar,22.0,0.0
+22,Clif Bar,260.0,24.0,13.0,5.0,Whey Protein Bar - Coconut Almond Chocolate,Brand,serving,56.000,g,1.000,14.0,6.0,1 bar,5.0,
+23,Clif Bar,270.0,30.0,8.0,4.0,Builder's Bar - Cookies 'n Cream,Brand,serving,68.000,g,1.000,20.0,5.0,1 bar,20.0,0.0
+24,Clif Bar,250.0,44.0,4.5,4.0,Clif Bar - Berry Pomegranate Chia,Brand,serving,68.000,g,1.000,10.0,0.5,1 bar,21.0,
+25,Clif Bar,250.0,45.0,5.0,3.0,Energy Bar - Chocolate Chip,Brand,serving,68.000,g,1.000,10.0,2.0,1 bar,21.0,0.0
+26,Clif Bar,270.0,37.0,9.0,4.0,Clif Bar - Nuts & Seeds,Brand,serving,86.000,g,1.000,11.0,1.0,1 bar,17.0,0.0
+27,Clif Bar,270.0,30.0,8.0,4.0,Builder's Bar - Peanut Butter,Brand,serving,68.000,g,1.000,20.0,5.0,1 bar,20.0,0.0
+28,Clif Bar,240.0,45.0,4.0,5.0,Clif Bar - Carrot Cake,Brand,serving,68.000,g,1.000,9.0,1.5,1 bar,25.0,
+29,Clif Bar,250.0,43.0,6.0,5.0,Clif Bar - Chocolate Almond Fudge,Brand,serving,68.000,g,1.000,9.0,1.5,1 bar,22.0,

@@ -1,0 +1,5 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Mars,240.0,37.0,9.0,1.0,Milky Way Bar,Brand,serving,52.200,g,1.000,2.0,7.0,1 bar,31.0,0.0
+1,Mars,250.0,37.0,11.0,0.0,Milky Way Simply Caramel Bar,Brand,serving,1.910,oz,1.000,2.0,8.0,1 bar,31.0,0.0
+2,Mars,230.0,36.0,9.0,1.0,Milky Way 2 To Go Bars,Brand,serving,51.000,g,1.000,2.0,6.0,1 bar,31.0,0.0
+3,Mars,220.0,36.0,8.0,1.0,Milky Way Midnight Dark Bar,Brand,serving,,,1.000,1.0,6.0,1 bar,29.0,0.0

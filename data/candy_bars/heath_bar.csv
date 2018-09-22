@@ -1,0 +1,3 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Heath,210.0,24.0,13.0,1.0,Milk Chocolate English Toffee Bar,Brand,serving,1.400,oz,1.000,1.0,7.0,1 bar,23.0,0.0
+1,Hershey's,210.0,24.0,13.0,1.0,Heath Bar,Brand,serving,99.000,g,1.000,1.0,7.0,1 bar,24.0,

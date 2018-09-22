@@ -1,0 +1,22 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,thinkThin,150.0,20.0,4.5,5.0,Lean Protein & Fiber Bar,Brand,serving,40.000,g,1.000,10.0,1.5,1 bar,5.0,
+1,thinkThin,150.0,19.0,5.0,6.0,Lemon Cranberry Chia Bar,Brand,serving,36.000,g,1.000,6.0,1.0,1 bar,6.0,0.0
+2,thinkThin,150.0,19.0,5.0,5.0,S'mores Protein & Fiber Bar,Brand,serving,40.000,g,1.000,10.0,1.5,1 bar,5.0,0.0
+3,thinkThin,190.0,15.0,13.0,4.0,Mixed Nuts Crunch Bar,Brand,serving,40.000,g,1.000,8.0,1.5,1 bar,4.0,0.0
+4,thinkThin,200.0,23.0,7.0,1.0,Chocolate Covered Strawberries Bar,Brand,serving,50.000,g,1.000,15.0,3.0,1 bar,0.0,0.0
+5,thinkThin,180.0,16.0,11.0,4.0,Coconut Chocolate Mixed Nuts Bar,Brand,serving,40.000,g,1.000,9.0,3.5,1 bar,7.0,0.0
+6,thinkThin,240.0,23.0,9.0,1.0,Caramel Fudge High Protein Bar,Brand,serving,60.000,g,1.000,20.0,3.0,1 bar,0.0,0.0
+7,thinkThin,180.0,24.0,6.0,5.0,Chocolate Peanut Butter Toffee Bar,Brand,serving,50.000,g,1.000,13.0,2.0,1 bar,2.0,0.0
+8,thinkThin,240.0,25.0,9.0,,Chocolate Strawberry High Protein Bar,Brand,serving,60.000,g,1.000,20.0,2.5,1 bar,0.0,
+9,thinkThin,230.0,24.0,9.0,0.0,Lemon Delight High Protein Bar,Brand,serving,60.000,g,1.000,20.0,3.5,1 bar,0.0,
+10,thinkThin,150.0,20.0,5.0,5.0,Cupcake Batter Protein & Fiber Bar,Brand,serving,40.000,g,1.000,10.0,2.0,1 bar,5.0,0.0
+11,thinkThin,230.0,23.0,9.0,1.0,Maple Almond High Protein Bar,Brand,serving,60.000,g,1.000,20.0,2.5,1 bar,0.0,0.0
+12,thinkThin,230.0,26.0,7.0,2.0,Dark Chocolate High Protein Bar,Brand,serving,2.100,oz,1.000,20.0,4.0,1 bar,0.0,0.0
+13,thinkThin,230.0,25.0,7.0,1.0,Cookies & Creme High Protein Bar,Brand,serving,60.000,g,1.000,20.0,3.5,1 bar,14.0,0.0
+14,thinkThin,190.0,15.0,13.0,4.0,Original Mixed Nuts Crunch Bar,Brand,serving,40.000,g,1.000,8.0,1.5,1 bar,4.0,0.0
+15,thinkThin,190.0,16.0,12.0,3.0,Protein Nut Bar Dark Chocolate,Brand,serving,1.410,oz,1.000,9.0,2.5,1 bar,8.0,0.0
+16,thinkThin,200.0,21.0,7.0,1.0,Chocolate Covered Strawberries Protein Bar,Brand,serving,50.000,g,1.000,15.0,3.0,1 bar,0.0,
+17,thinkThin,200.0,22.0,7.0,1.0,Tangerine Cremesicle High Protein Bar,Brand,serving,50.000,g,1.000,15.0,2.5,1 bar,0.0,0.0
+18,thinkThin,230.0,24.0,8.0,,White Chocolate High Protein Bar,Brand,serving,60.000,g,1.000,20.0,3.5,1 bar,,0.0
+19,thinkThin,230.0,25.0,8.0,1.0,Chocolate Espresso High Protein Bar,Brand,serving,60.000,g,1.000,20.0,3.0,1 bar,0.0,0.0
+20,thinkThin,180.0,16.0,11.0,4.0,Blueberry Mixed Nuts Crunch Bar,Brand,serving,40.000,g,1.000,8.0,1.5,1 bar,6.0,

@@ -1,0 +1,5 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Exo,290.0,26.0,14.0,5.0,Apple Cinnamon Protein Bar,Brand,serving,60.000,g,1.000,10.0,1.0,1 bar,16.0,0.0
+1,Exo,260.0,23.0,16.0,6.0,Blueberry Vanilla Protein Bar,Brand,serving,60.000,g,1.000,10.0,1.5,1 bar,14.0,0.0
+2,Exo,300.0,23.0,20.0,7.0,Cocoa Nut Protein Bar,Brand,serving,60.000,g,1.000,10.0,4.5,1 bar,13.0,0.0
+3,Exo,270.0,28.0,14.0,5.0,Peanut Butter & Jelly Protein Bar,Brand,serving,60.000,g,1.000,10.0,2.5,1 bar,18.0,0.0

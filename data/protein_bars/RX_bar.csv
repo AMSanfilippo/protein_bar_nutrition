@@ -1,0 +1,19 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,RxBar,210.0,24.0,9.0,6.0,Chocolate Sea Salt,Brand,serving,52.000,g,1.000,12.0,2.0,1 bar,15.0,0.0
+1,RxBar,210.0,22.0,10.0,4.0,Peanut Butter Chocolate,Brand,serving,52.000,g,1.000,12.0,2.0,1 bar,13.0,0.0
+2,RxBar,210.0,24.0,7.0,4.0,Blueberry,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,15.0,0.0
+3,RxBar,210.0,24.0,8.0,6.0,Peanut Butter,Brand,serving,52.000,g,1.000,12.0,1.5,1 bar,15.0,0.0
+4,RxBar,210.0,22.0,9.0,4.0,Coconut Chocolate,Brand,serving,52.000,g,1.000,12.0,1.5,1 bar,13.0,
+5,RxBar,220.0,22.0,10.0,5.0,Chocolate Chip,Brand,serving,52.000,g,1.000,12.0,2.0,1 bar,12.0,
+6,RxBar,210.0,24.0,7.0,5.0,Mixed Berry,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,14.0,0.0
+7,RxBar,220.0,22.0,10.0,5.0,Maple Sea Salt,Brand,serving,52.000,g,1.000,12.0,1.5,1 bar,14.0,0.0
+8,RxBar,210.0,23.0,9.0,5.0,Mint Chocolate,Brand,serving,52.000,g,1.000,12.0,2.0,1 bar,13.0,0.0
+9,RxBar,210.0,23.0,9.0,5.0,Apple Cinnamon,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,14.0,0.0
+10,RxBar,210.0,23.0,9.0,6.0,Coffee Chocolate,Brand,serving,52.000,g,1.000,12.0,2.5,1 bar,13.0,0.0
+11,RxBar,210.0,23.0,8.0,3.0,Pumpkin Spice,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,15.0,0.0
+12,RxBar,210.0,22.0,8.0,4.0,Coconut Cacao,Brand,serving,52.000,g,1.000,12.0,3.0,1 bar,14.0,0.0
+13,RxBar,200.0,22.0,8.0,4.0,Coffee Cacao,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,14.0,0.0
+14,RxBar,210.0,24.0,9.0,4.0,Gingerbread,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,14.0,
+15,RxBar,200.0,24.0,7.0,4.0,Mango Pineapple,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,14.0,0.0
+16,RxBar,200.0,25.0,7.0,,Peanut Butter & Berries,Brand,serving,52.000,g,1.000,12.0,1.0,1 bar,15.0,
+17,RxBar,210.0,23.0,9.0,5.0,Chocolate Hazelnut,Brand,serving,52.000,g,1.000,12.0,1.5,1 bar,14.0,0.0

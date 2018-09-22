@@ -1,0 +1,5 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Oatmega,200.0,22.0,7.0,7.0,Chocolate Peanut Protein Bar,Brand,serving,50.000,g,1.000,14.0,2.5,1 bar,5.0,0.0
+1,Oatmega,200.0,22.0,7.0,7.0,Chocolate Mint Protein Bar,Brand,serving,50.000,g,1.000,14.0,2.5,1 bar,5.0,0.0
+2,Oatmega,200.0,22.0,7.0,7.0,Chocolate Coconut Protein Bar,Brand,serving,50.000,g,1.000,14.0,3.0,1 bar,5.0,0.0
+3,Oatmega,200.0,22.0,7.0,7.0,Grass-Fed Whey Protein Bar - Lemon Chia,Brand,serving,50.000,g,1.000,14.0,2.0,1 bar,5.0,0.0

@@ -1,0 +1,18 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Pure Protein,210.0,24.0,8.0,15.0,Cookies & Cream Bar High Protein Bar,Brand,serving,60.000,g,1.000,20.0,2.5,1 bar,2.0,0.0
+1,Pure Protein,190.0,24.0,7.0,16.0,Plus Apple Pie Bar,Brand,serving,2.110,oz,1.000,20.0,1.5,1 bar,3.0,0.0
+2,Pure Protein,200.0,23.0,8.0,16.0,Plus Mocha Brownie Bar,Brand,serving,60.000,g,1.000,20.0,2.5,1 bar,2.0,
+3,Pure Protein,310.0,30.0,8.0,0.0,S'mores High Protein Bar,Brand,serving,78.000,g,1.000,29.0,6.0,1 bar,4.0,0.0
+4,Pure Protein,190.0,25.0,6.0,5.0,Blueberry Oatmeal Breakfast Bar,Brand,serving,50.000,g,1.000,12.0,3.0,1 bar,4.0,0.0
+5,Pure Protein,190.0,26.0,6.0,5.0,Strawberry Waffle Breakfast Bar,Brand,serving,50.000,g,1.000,12.0,3.0,1 bar,3.0,0.0
+6,Pure Protein,200.0,21.0,6.0,5.0,Fruit & Nut High Protein Bar,Brand,serving,53.000,g,1.000,18.0,,1 bar,7.0,
+7,Pure Protein,200.0,18.0,5.0,0.0,Birthday Cake High Protein Bar,Brand,serving,,,1.000,20.0,3.5,1 bar,3.0,0.0
+8,Pure Protein,280.0,26.0,9.0,1.0,Revolution Chocolate Peanut Caramel Bar,Brand,serving,78.000,g,1.000,32.0,6.0,1 bar,2.0,0.0
+9,Pure Protein,200.0,19.0,5.0,0.0,S'mores High Protein Bar (Small),Brand,serving,50.000,g,1.000,19.0,3.5,1 bar,2.0,0.0
+10,Pure Protein,200.0,23.0,7.0,15.0,Chocolate Chip Cookie Dough Bar,Brand,serving,2.110,oz,1.000,21.0,2.0,1 bar,2.0,0.0
+11,Pure Protein,280.0,26.0,7.0,3.0,Chocolate Deluxe High Protein Bar,Brand,serving,78.000,g,1.000,32.0,5.0,1 bar,4.0,0.0
+12,Pure Protein,280.0,29.0,6.0,0.0,Strawberry Shortcake High Protein Bar,Brand,serving,78.000,g,1.000,29.0,4.5,1 bar,4.0,0.0
+13,Pure Protein,190.0,17.0,5.0,1.0,Red Velvet High Protein Bar,Brand,serving,50.000,g,1.000,20.0,4.0,1 bar,3.0,0.0
+14,Pure Protein,300.0,29.0,10.0,2.0,Blueberry Crumb Cake High Protein Bar,Brand,serving,78.000,g,1.000,28.0,6.0,1 bar,3.0,
+15,Pure Protein,310.0,25.0,10.0,2.0,Chocolate Peanut Butter High Protein Bar,Brand,serving,78.000,g,1.000,31.0,4.5,1 bar,3.0,0.0
+16,Pure Protein,190.0,14.0,8.0,1.0,Double Chocolate Vanilla Crunch Protein Bar,Brand,serving,1.580,oz,1.000,17.0,4.0,1 bar,5.0,0.0

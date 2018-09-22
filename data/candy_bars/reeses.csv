@@ -1,0 +1,9 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Reese's,210.0,24.0,13.0,1.0,Milk Chocolate Peanut Butter Cups,Brand,serving,42.000,g,1.000,5.0,4.5,2 pieces,21.0,0.0
+1,Reese's,300.0,33.0,18.0,2.0,Peanut Butter Cups (Large),Brand,serving,,,1.000,6.0,7.0,1 package,30.0,0.0
+2,Reese's,220.0,22.0,13.0,2.0,Crunchy Peanut Butter Cups,Brand,serving,1.500,oz,1.000,5.0,4.5,2 cups,20.0,0.0
+3,Reese's,400.0,44.0,24.0,3.0,Peanut Butter Cups (King Size),Brand,serving,79.000,g,1.000,9.0,8.0,1 package,39.0,0.0
+4,Reese's,400.0,46.0,22.0,3.0,Reese's Pieces Big Cup,Brand,serving,2.800,oz,1.000,8.0,10.0,1 package,41.0,0.0
+5,Reese's,210.0,24.0,13.0,1.0,Dark Chocolate Peanut Butter Cups,Brand,serving,42.000,g,1.000,5.0,4.5,1 package (2 cups),21.0,0.0
+6,Reese's,200.0,24.0,11.0,1.0,Peanut Butter Cups Stuffed with Crunchy Cookie,Brand,serving,39.000,g,1.000,4.0,4.5,1 package,21.0,0.0
+7,Reese's,380.0,44.0,21.0,3.0,Crunchy Cookie Big Cup,Brand,serving,,,1.000,8.0,8.0,1 package,38.0,0.0

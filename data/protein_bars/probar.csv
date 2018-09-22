@@ -1,0 +1,26 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,PROBAR,290.0,32.0,10.0,5.0,Core Peanut Butter Chocolate,Brand,serving,70.000,g,1.000,20.0,5.0,1 bar,15.0,0.0
+1,PROBAR,290.0,33.0,9.0,4.0,Core Cookie Dough,Brand,serving,70.000,g,1.000,20.0,6.0,1 bar,16.0,0.0
+2,PROBAR,280.0,33.0,9.0,4.0,Core Mint Chocolate,Brand,serving,70.000,g,1.000,20.0,5.0,1 bar,17.0,0.0
+3,PROBAR,280.0,33.0,9.0,4.0,Base Coffee Crunch,Brand,serving,70.000,g,1.000,20.0,6.0,1 bar,16.0,0.0
+4,PROBAR,390.0,43.0,22.0,6.0,Peanut Butter Chocolate Chip Bar,Brand,serving,85.000,g,1.000,11.0,4.5,1 bar,21.0,
+5,PROBAR,380.0,46.0,19.0,7.0,Superfood Slam Bar,Brand,serving,85.000,g,1.000,11.0,4.5,1 bar,17.0,0.0
+6,PROBAR,390.0,44.0,21.0,5.0,Banana Nut Bread,Brand,serving,85.000,g,1.000,9.0,5.0,1 bar,18.0,
+7,PROBAR,380.0,41.0,21.0,6.0,Peanut Butter Bar,Brand,serving,85.000,g,1.000,12.0,3.0,1 bar,16.0,
+8,PROBAR,360.0,51.0,16.0,5.0,Whole Berry Blast Bar,Brand,serving,85.000,g,1.000,8.0,2.0,1 bar,23.0,0.0
+9,PROBAR,370.0,48.0,18.0,6.0,Almond Crunch Bar,Brand,serving,85.000,g,1.000,9.0,2.0,1 bar,19.0,
+10,PROBAR,360.0,47.0,18.0,7.0,Koka Moka Bar,Brand,serving,85.000,g,1.000,9.0,3.5,1 bar,21.0,
+11,PROBAR,380.0,45.0,20.0,7.0,Double Chocolate Bar,Brand,serving,85.000,g,1.000,9.0,3.5,1 bar,18.0,0.0
+12,PROBAR,370.0,48.0,18.0,6.0,Art's Original Blend Bar,Brand,serving,85.000,g,1.000,10.0,3.0,1 bar,19.0,0.0
+13,PROBAR,370.0,48.0,18.0,7.0,Nutty Banana Boom Bar,Brand,serving,85.000,g,1.000,9.0,3.5,1 bar,26.0,0.0
+14,PROBAR,350.0,51.0,15.0,5.0,Superfruit Slam,Brand,serving,85.000,g,1.000,8.0,2.0,1 bar,24.0,0.0
+15,PROBAR,370.0,47.0,19.0,7.0,Apple Cinnamon Crunch Bar,Brand,serving,85.000,g,1.000,9.0,5.0,1 bar,22.0,0.0
+16,PROBAR,370.0,48.0,17.0,6.0,Old School PB&J,Brand,serving,85.000,g,1.000,9.0,2.0,1 bar,20.0,0.0
+17,PROBAR,360.0,50.0,15.0,5.0,Superberry & Greens,Brand,serving,85.000,g,1.000,8.0,2.5,1 bar,22.0,0.0
+18,PROBAR,400.0,39.0,24.0,7.0,Sweet & Savory Sesame Goji Bar,Brand,serving,85.000,g,1.000,12.0,5.0,1 bar,18.0,0.0
+19,PROBAR,400.0,45.0,21.0,6.0,Sweet & Savory Kettle Corn Bar,Brand,serving,85.000,g,1.000,10.0,6.0,1 bar,20.0,0.0
+20,PROBAR,350.0,46.0,17.0,6.0,Cran-Lemon Twister Bar,Brand,serving,85.000,g,1.000,8.0,4.0,1 bar,22.0,0.0
+21,PROBAR,380.0,45.0,19.0,6.0,Sweet & Savory Cherry Pretzel Bar,Brand,serving,85.000,g,1.000,10.0,5.0,1 bar,21.0,0.0
+22,PROBAR,390.0,43.0,23.0,7.0,Sweet & Savory Maple Pecan Bar,Brand,serving,85.000,g,1.000,10.0,4.5,1 bar,17.0,0.0
+23,PROBAR,400.0,39.0,25.0,7.0,Sweet & Savory Cocoa Pistachio Bar,Brand,serving,85.000,g,1.000,12.0,7.0,1 bar,18.0,0.0
+24,PROBAR,370.0,50.0,16.0,4.0,Strawberry Bliss,Brand,serving,85.000,g,1.000,8.0,2.0,1 bar,23.0,0.0

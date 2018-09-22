@@ -1,0 +1,21 @@
+,brand_name,calories,carbohydrate,fat,fiber,food_name,food_type,measurement_description,metric_serving_amount,metric_serving_unit,number_of_units,protein,saturated_fat,serving_description,sugar,trans_fat
+0,Quest,220.0,19.0,12.0,12.0,Pumpkin Pie Protein Bar,Brand,serving,60.000,g,1.000,21.0,5.0,1 bar,0.0,
+1,Quest,210.0,20.0,9.0,13.0,Rocky Road Protein Bar,Brand,serving,,,1.000,20.0,3.0,1 bar,1.0,
+2,Quest,110.0,17.0,4.5,7.0,Beyond Cereal Bar - Chocolate,Brand,serving,38.000,g,1.000,12.0,3.0,1 bar,8.0,0.0
+3,Quest,180.0,24.0,6.0,14.0,Mocha Chocolate Chip Protein Bar,Brand,serving,60.000,g,1.000,20.0,2.0,1 bar,1.0,0.0
+4,Quest,200.0,21.0,8.0,15.0,Cookies & Cream Protein Bar,Brand,serving,60.000,g,1.000,21.0,2.5,1 bar,1.0,
+5,Quest,110.0,17.0,4.5,6.0,Waffle Cereal Protein Bar,Brand,serving,38.000,g,1.000,12.0,2.5,1 bar,8.0,
+6,Quest,110.0,17.0,4.5,7.0,Cinnamon Roll Cereal Protein Bar,Brand,serving,38.000,g,1.000,12.0,2.5,1 bar,8.0,
+7,Quest,200.0,21.0,8.0,14.0,Chocolate Chip Cookie Dough Protein Bar,Brand,serving,60.000,g,1.000,21.0,3.0,1 bar,,0.0
+8,Quest,200.0,27.0,11.0,11.0,Chocolate Caramel Pecan Hero Protein Bar,Brand,serving,60.000,g,1.000,15.0,7.0,1 bar,12.0,
+9,Quest,180.0,23.0,6.0,16.0,Chocolate Brownie Protein Bar,Brand,serving,60.000,g,1.000,20.0,1.0,1 bar,1.0,0.0
+10,Quest,200.0,20.0,10.0,13.0,Peanut Butter & Jelly Protein Bar,Brand,serving,60.000,g,1.000,20.0,2.0,1 bar,2.0,0.0
+11,Quest,200.0,22.0,8.0,16.0,Mint Chocolate Chunk Protein Bar,Brand,serving,60.000,g,1.000,20.0,3.0,1 bar,1.0,0.0
+12,Quest,170.0,30.0,7.0,10.0,Blueberry Cobbler Hero Protein Bar,Brand,serving,60.000,g,1.000,17.0,6.0,1 bar,13.0,0.0
+13,Quest,180.0,22.0,8.0,13.0,Banana Nut Muffin Natural Protein Bar,Brand,serving,60.000,g,1.000,20.0,1.0,1 bar,2.0,0.0
+14,Quest,190.0,21.0,7.0,14.0,Apple Pie Protein Bar,Brand,serving,60.000,g,1.000,20.0,1.0,1 bar,3.0,0.0
+15,Quest,190.0,23.0,7.0,15.0,Coconut Cashew Protein Bar,Brand,serving,60.000,g,1.000,20.0,1.5,1 bar,1.0,0.0
+16,Quest,110.0,17.0,4.5,7.0,Chocolate Cereal Protein Bar,Brand,serving,38.000,g,1.000,12.0,3.0,1 bar,8.0,
+17,Quest,210.0,21.0,9.0,15.0,Peanut Butter Supreme Protein Bar,Brand,serving,60.000,g,1.000,20.0,1.5,1 bar,1.0,0.0
+18,Quest,190.0,22.0,8.0,15.0,Oatmeal Chocolate Chip Protein Bar,Brand,serving,60.000,g,1.000,20.0,1.5,1 bar,1.0,0.0
+19,Quest,190.0,24.0,7.0,14.0,Peanut Butter Brownie Smash Protein Bar,Brand,serving,60.000,g,1.000,20.0,1.5,1 bar,2.0,0.0
