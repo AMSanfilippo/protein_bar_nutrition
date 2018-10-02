@@ -103,7 +103,12 @@ full_scatter_pf <- ggplot(data[!is.na(data$sugar),], aes(x=fat, y=protein, shape
 
 full_scatter_fc <- ggplot(data[!is.na(data$sugar),], aes(x=fat, y=carbohydrate, shape=type, color=kmeans_group)) + geom_point() 
 
-# in preparation for MV T2 tests: histograms of ln(macronutrients) for protein bars and candy
+# next: attempt to apply a more formal test for difference in nutrient distributions between protein bars and candy bars
+# one way we can do this is with the T-Squared (T2) test, which is a multivariate generalization of the t-test
+
+# note that the T2 test requires normally distributed data
+# in preparation: log-transform nutrient data
+# plot histograms of ln(macronutrients) for protein bars and candy to show (approximate) normality
 
 ln_calories <- ggplot(data, aes(x=log(calories),color=type,fill=type)) + geom_histogram(binwidth=.05, alpha=0.5, position="identity") + labs(title="Comparison of ln(calorie counts)")
 ln_calories
@@ -120,7 +125,11 @@ ln_fats
 sqrt_sugars <- ggplot(data, aes(x=sqrt(sugar),color=type,fill=type)) + geom_histogram(binwidth=0.55, alpha=0.5, position="identity") + labs(title="Comparison of sqrt(sugar counts)")
 sqrt_sugars
 
-# t2 test
+# T2 test
+# here we are testing H0: E[log protein nutrients] = E[log candy nutrients]
+# note that this is NOT the same as testing H0: E[protein nutrients] = E[candy nutrients]
+# however, if the log of nutrients is close to normal then e^E[log nutrients] ~= median of nutrients, so e^(E[log protein nutrients] - E[log candy nutrients]) ~= (median of protein nutrient)/(median of candy nutrients)
+# i.e. in the original units, we are doing inference on the ratio of medians of the nutrient distributions
 
 p <- data[data$type=="protein",c(3,4,12)]
 p$carbohydrate <- log(p$carbohydrate)
@@ -144,18 +153,20 @@ c_alt$protein <- log(c_alt$protein)
 c_alt$fat <- log(c_alt$fat)
 c_alt$sugar <- sqrt(c_alt$sugar)
 
-# test for difference in mv means in macro space
+# test for difference in mv means in ln(macro) space
 T2.test(p,c)
 # T2 = 1257.0, F = 416.8, df1 = 3, df2 = 379, p-value < 2.2e-16
-#               carbohydrate      fat   protein
+#           ln(carbohydrate)  ln(fat) ln(protein)
 # mean x-vector     3.256726 2.032887 2.5140316
 # mean y-vector     3.366406 2.427139 0.9028716
+# i.e. significant evidence that the ratio of medians != [1 1 1]
 
 # test for difference in mv means in macro + sugar space
 T2.test(p_alt,c_alt)
 # T2 = 1250.40, F = 310.07, df1 = 4, df2 = 370, p-value < 2.2e-16
-#               carbohydrate      fat   protein    sugar
+#           ln(carbohydrate)  ln(fat) ln(protein) ln(sugar)
 # mean x-vector     3.258744 2.031369 2.5119317 3.296167
 # mean y-vector     3.361630 2.426671 0.8973488 4.932989
+# i.e. significant evidence that the ratio of medians != [1 1 1 1]
 
 
